@@ -141,14 +141,13 @@ sets contain 5.5 buildings with 21 point clouds each. For each model, there is a
 					<li><i>Accuracy of endpoints</i>. Precision/Recall and F-measure will be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match.</li>
 					<li><i>Orientation</i>. For each matched line between the ground truth, we will compute the cosine similarity metric between them as the normalized dot product. If a line is not matched with ground truth, the cosine metric will be zero. Finally, the metric will be averaged over all the ground truth lines.</li>
 				</ul>
+				<b>Topological Metrics:</b><br/>
+				We will also evaluate topological metrics that measure whether the connectivity of the rooms match the ground truth.
+				<ul style="text-align:left;">
+					<li><i>Warping error(<a href="https://ieeexplore.ieee.org/document/5539950">Jain et al. 2010</a>).</i>The warping error will first warp the predicted floorplan to the ground truth with a homotopic deformation, and then compute the pixels that cannot match after the deformation.</li>
+					<li><i>Betti number error.</i>The Betti number error will compare the Betti numbers between the prediction and the ground truth and output the absolute value of the difference.</li>
+				</ul>
 				</p>
-				
-				
-			<p><b>Geometric Metrics:</b> We will evaluate the:</p>
-			<ul>
-				<p><b>Topological Metrics:</b> We will also evaluate topological metrics that measure whether the connectivity of the rooms match the ground truth. The main metrics will be warping error (<a href="https://ieeexplore.ieee.org/document/5539950">Jain et al. 2010</a>) and Betti number error. 
-				The warping error will first warp the predicted floorplan to the ground truth with a homotopic deformation, and then compute the pixels that cannot match after the deformation. The Betti 
-				number error will compare the Betti numbers between the prediction and the ground truth and output the absolute value of the difference.</p>
 
 				<h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Evaluation and Submission</h4>
 				<p> The evaluation code for the 2D floorplan task is available from <a href="https://github.com/seravee08/WarpingError_Floorplan">This GitHub Repository</a>. For 3D, because of the difficulty to come up with correct ground truth and have a consistent file format that is 
