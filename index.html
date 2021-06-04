@@ -136,10 +136,11 @@ sets contain 5.5 buildings with 21 point clouds each. For each model, there is a
 				<p><b>2D Evaluation Metrics</b></p>
 				<p style="text-align:left;">
 				<b>Geometric Metrics:</b><br/>
-				<ol>
+				<ul>
 					<li><i>IoU</i> of the each room (a room is defined as a completely separated area with walls and doors).</li>
 					<li><i>Accuracy of endpoints</i>. Precision/Recall and F-measure will be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match.</li>
 					<li><i>Orientation</i>. For each matched line between the ground truth, we will compute the cosine similarity metric between them as the normalized dot product. If a line is not matched with ground truth, the cosine metric will be zero. Finally, the metric will be averaged over all the ground truth lines.</li>
+				</ul>
 				</p>
 				
 				
