@@ -94,83 +94,6 @@
         </div>
        </div>
     </section>
-    
-    <!-- Challenge -->
-    <section style="background-color:#f2f1eb" id="challenge">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Challenge</h2>
-          </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-12 text-center" style="margin-top:40px">
-	          <p>The workshop will host the 1st International Scan-to-BIM challenge. The challenge will include the following tasks:</p>
-		  <p><b>I. Floorplan Reconstruction</b><br>
-		     <b>II. 3D Building Model Reconstruction</b></p>
-	    </div>
-		</div>
-		<div class="row">		
-			<div class="col-lg-12 text-center">
-				<h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Dataset</h4>
-				<p>The dataset is available <b><a href="https://deepreality.allvision.io/">HERE</a></b>. You will need a registered account to download the dataset. Once you submit a request for registration, it will be inspected and a registration link will be sent to you within 24 hours. The challenge contains a total of 31 buildings with multiple floors each and dozens of rooms on each floor. Of which, 20 buildings are designated as the <i>training</i> set, with a total of 49 point clouds. The validation and testing 
-sets contain 5.5 buildings with 21 point clouds each. For each model, there is a point cloud in LAZ format. For the training and validation sets, a corresponding floorplan aligned with the coordinate system of the point cloud is also provided.
-				<br>	<b>NOTE: </b> If you have downloaded 
-				the data prior to May 3rd noon PT, please note that we have an updated version of the data, with the CAD model coordinates aligned with the input point cloud, which has replaced the original version.</p>
-				<p><b>Floorplan Reconstruction Task:</b> For the floorplan reconstruction task, the <i>training set</i> consists of the point clouds of 20 buildings with multiple floors each, with a total of 49 point clouds, as well as corresponding 2D building models for each floor with multiple extracted layers. These layers include: walls, curved walls, doors, windows, stairs, and columns. The buildings have complicated floor structures which could include dozens of rooms, curved walls and many doors on each floor. We have released 6 new buildings as the <i>validation set</i> and another 6 as the <i>testing set</i>. The <i>validation set</i> contains point clouds and their corresponding 2D building models. For the <i>testing set</i>, only the point clouds will be made available, while the 2D building models will not be made available and we will host a server to evaluate the submissions.
-
-				<p> <b> NEW (May 12th) </b> The validation and testing sets have been released! </p> 
-				<!--<p><b>Floorplan Reconstruction Task:</b> We provide 2D building models for each floor described as both a binary OBJ file and a JSON file with extracted layers. These layers include: walls, curved walls, doors, windows, stairs, and columns. A detailed description of the file format can be found <a href="filespecs.html">here</a>. We will have 6 buildings as the <i>validation</i> set and another 6 as the <i>testing</i> set. The validation set, which contains point clouds and their corresponding 2D building models, will be made available on a later date. The testing set models will not be made available and we will host an evaluation server to evaluate submissions.-->
-				<!--<p>We provide API to extract layers from dwg and convert to obj or JSON file in this
-					<a href="https://github.com/cv4aec/cv4aec.github.io/tree/main/conversion_api">package</a>. Please find use examples
-					under main.ipynb file. The file formats for obj and JSON are detailed below.</p> -->
-				<p><b>3D Building Model Reconstruction Task:</b> For the 3D building model reconstruction task, the <i>training set</i> consists of point clouds of 4 buildings with multiple floors, as well as the corresponding 3D building model in AutoCAD DXF format. We aim to release 2 more buildings for the <i>validation set</i> and 2 more as the <i>testing set</i>. The evaluation on the testing set will also be hosted on the evaluation server in a similar manner to the floorplan reconstruction task.</p>
-				<p style="margin-top:10px;font-weight:bold;font-size:15pt"><a href="https://deepreality.allvision.io/">DOWNLOAD THE DATASET HERE</a></p>
-				<p><b><i>(Note that you will get an email within 24 hours after requesting to register for an account.
-					After you receive confirmation, please use the emailed link in the confirmation email to register your account. Following this, you can download the Scan-To-BIM training set for the two tasks. The building models for the 3D reconstruction task are also available in separate files.)</i></b></p>
-				
-				<p style="margin-top:10px"><b>File Specifications:</b> A description of the file formats and sample code to read/write these files can be found <b><a href="filespecs.html">HERE</a></b>.
-
-				<h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Metrics</h4>
-				<p>We will include metrics to evaluate the reconstruction of the walls, doors, floor area and windows.</p>
-				<p><b>2D Evaluation Metrics</b></p>
-				<p style="text-align:left;">
-				<b>Geometric Metrics:</b><br/>
-				<ul style="text-align:left;">
-					<li><i>IoU</i> of the each room (a room is defined as a completely separated area with walls and doors).</li>
-					<li><i>Accuracy of endpoints</i>. Precision/Recall and F-measure will be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match.</li>
-					<li><i>Orientation</i>. For each matched line between the ground truth, we will compute the cosine similarity metric between them as the normalized dot product. If a line is not matched with ground truth, the cosine metric will be zero. Finally, the metric will be averaged over all the ground truth lines.</li>
-				</ul>
-				</p>
-				<p style="text-align:left;">
-				<b>Topological Metrics:</b><br/>
-				We will also evaluate topological metrics that measure whether the connectivity of the rooms match the ground truth.
-				<ul style="text-align:left;">
-					<li><i>Warping error(<a href="https://ieeexplore.ieee.org/document/5539950">Jain et al. 2010</a>).</i>The warping error will first warp the predicted floorplan to the ground truth with a homotopic deformation, and then compute the pixels that cannot match after the deformation.</li>
-					<li><i>Betti number error.</i>The Betti number error will compare the Betti numbers between the prediction and the ground truth and output the absolute value of the difference.</li>
-				</ul>
-				</p>
-	      			<p><b>3D Evaluation Metrics</b></p>
-	      			<p style="text-align:left;">
-	      			Figures and evaluation metrics (accuracy, correctness, completeness) are from: <br/>
-	      			Tran, H., Khoshelham, K., & Kealy, A. (2019). Geometric comparison and quality evaluation of 3D models of indoor environments.ISPRS journal of photogrammetry and remote sensing,149, 29-39. <br/>
-          			</p>
-				<img src="img/evaluation/3D_Evaluation_Metric.jpg" width="874" height="764">
-
-				<h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Evaluation and Submission</h4>
-				<p> The evaluation code for the 2D floorplan task is available from <a href="https://github.com/seravee08/WarpingError_Floorplan">This GitHub Repository</a>. For 3D, because of the difficulty to come up with correct ground truth and have a consistent file format that is 
-					acceptable to both the computer vision and AEC communities, we have decided that we will use an expert panel to evaluate the submissions manually. We will aim to have automatic evaluations for the challenges in next years.</p>
-				<p>Submission of results on the testing set and evaluation on the ground truth data is now available on the <a href="http://deepreality.allvision.io">evaluation server</a>. For 2D, the submission will be
-			           in the same JSON format as in the ground truth provided to you. For 3D, the submission will be in DXF or Wavefront OBJ formats.</p>
-				
-				<h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Questions?</h4>
-				<p>Contact the organizers at: <a href="mailto:cv4aec.3d@gmail.com">cv4aec.3d@gmail.com</a></p>
-		    </div>
-            </div>
-      </div>
-    </section>
-
-
     <!-- Schedule -->
     <section id="schedule">
       <div class="container">
@@ -497,6 +420,84 @@ This talk will first briefly present the BIMERR project, but then focus on the S
 	      
       </div>
     </section>
+
+    
+    <!-- Challenge -->
+    <section style="background-color:#f2f1eb" id="challenge">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Challenge</h2>
+          </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 text-center" style="margin-top:40px">
+	          <p>The workshop will host the 1st International Scan-to-BIM challenge. The challenge will include the following tasks:</p>
+		  <p><b>I. Floorplan Reconstruction</b><br>
+		     <b>II. 3D Building Model Reconstruction</b></p>
+	    </div>
+		</div>
+		<div class="row">		
+			<div class="col-lg-12 text-center">
+				<h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Dataset</h4>
+				<p>The dataset is available <b><a href="https://deepreality.allvision.io/">HERE</a></b>. You will need a registered account to download the dataset. Once you submit a request for registration, it will be inspected and a registration link will be sent to you within 24 hours. The challenge contains a total of 31 buildings with multiple floors each and dozens of rooms on each floor. Of which, 20 buildings are designated as the <i>training</i> set, with a total of 49 point clouds. The validation and testing 
+sets contain 5.5 buildings with 21 point clouds each. For each model, there is a point cloud in LAZ format. For the training and validation sets, a corresponding floorplan aligned with the coordinate system of the point cloud is also provided.
+				<br>	<b>NOTE: </b> If you have downloaded 
+				the data prior to May 3rd noon PT, please note that we have an updated version of the data, with the CAD model coordinates aligned with the input point cloud, which has replaced the original version.</p>
+				<p><b>Floorplan Reconstruction Task:</b> For the floorplan reconstruction task, the <i>training set</i> consists of the point clouds of 20 buildings with multiple floors each, with a total of 49 point clouds, as well as corresponding 2D building models for each floor with multiple extracted layers. These layers include: walls, curved walls, doors, windows, stairs, and columns. The buildings have complicated floor structures which could include dozens of rooms, curved walls and many doors on each floor. We have released 6 new buildings as the <i>validation set</i> and another 6 as the <i>testing set</i>. The <i>validation set</i> contains point clouds and their corresponding 2D building models. For the <i>testing set</i>, only the point clouds will be made available, while the 2D building models will not be made available and we will host a server to evaluate the submissions.
+
+				<p> <b> NEW (May 12th) </b> The validation and testing sets have been released! </p> 
+				<!--<p><b>Floorplan Reconstruction Task:</b> We provide 2D building models for each floor described as both a binary OBJ file and a JSON file with extracted layers. These layers include: walls, curved walls, doors, windows, stairs, and columns. A detailed description of the file format can be found <a href="filespecs.html">here</a>. We will have 6 buildings as the <i>validation</i> set and another 6 as the <i>testing</i> set. The validation set, which contains point clouds and their corresponding 2D building models, will be made available on a later date. The testing set models will not be made available and we will host an evaluation server to evaluate submissions.-->
+				<!--<p>We provide API to extract layers from dwg and convert to obj or JSON file in this
+					<a href="https://github.com/cv4aec/cv4aec.github.io/tree/main/conversion_api">package</a>. Please find use examples
+					under main.ipynb file. The file formats for obj and JSON are detailed below.</p> -->
+				<p><b>3D Building Model Reconstruction Task:</b> For the 3D building model reconstruction task, the <i>training set</i> consists of point clouds of 4 buildings with multiple floors, as well as the corresponding 3D building model in AutoCAD DXF format. We aim to release 2 more buildings for the <i>validation set</i> and 2 more as the <i>testing set</i>. The evaluation on the testing set will also be hosted on the evaluation server in a similar manner to the floorplan reconstruction task.</p>
+				<p style="margin-top:10px;font-weight:bold;font-size:15pt"><a href="https://deepreality.allvision.io/">DOWNLOAD THE DATASET HERE</a></p>
+				<p><b><i>(Note that you will get an email within 24 hours after requesting to register for an account.
+					After you receive confirmation, please use the emailed link in the confirmation email to register your account. Following this, you can download the Scan-To-BIM training set for the two tasks. The building models for the 3D reconstruction task are also available in separate files.)</i></b></p>
+				
+				<p style="margin-top:10px"><b>File Specifications:</b> A description of the file formats and sample code to read/write these files can be found <b><a href="filespecs.html">HERE</a></b>.
+
+				<h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Metrics</h4>
+				<p>We will include metrics to evaluate the reconstruction of the walls, doors, floor area and windows.</p>
+				<p><b>2D Evaluation Metrics</b></p>
+				<p style="text-align:left;">
+				<b>Geometric Metrics:</b><br/>
+				<ul style="text-align:left;">
+					<li><i>IoU</i> of the each room (a room is defined as a completely separated area with walls and doors).</li>
+					<li><i>Accuracy of endpoints</i>. Precision/Recall and F-measure will be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match.</li>
+					<li><i>Orientation</i>. For each matched line between the ground truth, we will compute the cosine similarity metric between them as the normalized dot product. If a line is not matched with ground truth, the cosine metric will be zero. Finally, the metric will be averaged over all the ground truth lines.</li>
+				</ul>
+				</p>
+				<p style="text-align:left;">
+				<b>Topological Metrics:</b><br/>
+				We will also evaluate topological metrics that measure whether the connectivity of the rooms match the ground truth.
+				<ul style="text-align:left;">
+					<li><i>Warping error(<a href="https://ieeexplore.ieee.org/document/5539950">Jain et al. 2010</a>).</i>The warping error will first warp the predicted floorplan to the ground truth with a homotopic deformation, and then compute the pixels that cannot match after the deformation.</li>
+					<li><i>Betti number error.</i>The Betti number error will compare the Betti numbers between the prediction and the ground truth and output the absolute value of the difference.</li>
+				</ul>
+				</p>
+	      			<p><b>3D Evaluation Metrics</b></p>
+	      			<p style="text-align:left;">
+	      			Figures and evaluation metrics (accuracy, correctness, completeness) are from: <br/>
+	      			Tran, H., Khoshelham, K., & Kealy, A. (2019). Geometric comparison and quality evaluation of 3D models of indoor environments.ISPRS journal of photogrammetry and remote sensing,149, 29-39. <br/>
+          			</p>
+				<img src="img/evaluation/3D_Evaluation_Metric.jpg" width="874" height="764">
+
+				<h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Evaluation and Submission</h4>
+				<p> The evaluation code for the 2D floorplan task is available from <a href="https://github.com/seravee08/WarpingError_Floorplan">This GitHub Repository</a>. For 3D, because of the difficulty to come up with correct ground truth and have a consistent file format that is 
+					acceptable to both the computer vision and AEC communities, we have decided that we will use an expert panel to evaluate the submissions manually. We will aim to have automatic evaluations for the challenges in next years.</p>
+				<p>Submission of results on the testing set and evaluation on the ground truth data is now available on the <a href="http://deepreality.allvision.io">evaluation server</a>. For 2D, the submission will be
+			           in the same JSON format as in the ground truth provided to you. For 3D, the submission will be in DXF or Wavefront OBJ formats.</p>
+				
+				<h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Questions?</h4>
+				<p>Contact the organizers at: <a href="mailto:cv4aec.3d@gmail.com">cv4aec.3d@gmail.com</a></p>
+		    </div>
+            </div>
+      </div>
+    </section>
+
+
 
     <!-- Organizers -->
     <section id="organizers" style="background-color:#f2f1eb">
