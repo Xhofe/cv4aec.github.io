@@ -20,6 +20,10 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
     <!-- Custom styles for this template -->
     <link href="css/agency.min.css" rel="stylesheet">
+    result{
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
   </head>
 
   <body id="page-top">
@@ -492,7 +496,7 @@ sets contain 5.5 buildings with 21 point clouds each. For each model, there is a
 				<p>Submission of results on the testing set and evaluation on the ground truth data is now available on the <a href="http://deepreality.allvision.io">evaluation server</a>. For 2D, the submission will be
 			           in the same JSON format as in the ground truth provided to you. For 3D, the submission will be in DXF or Wavefront OBJ formats.</p>
 	      			<h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Results</h4>
-	                         <table>
+	                         <table id="result">
 					 <tr> <th>Method Name</th>
 						 <th>Team Members</th>
 						 <th> Affiliation</th>
