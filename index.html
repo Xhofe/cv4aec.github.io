@@ -433,22 +433,43 @@
         <div class="row">   
           <div class="col-lg-12 text-center">
             <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Dataset</h4>
-            <p>To be announced soon.</p>
+        <p>The challenge is hosted on Codalab <b><a href="https://codalab.lisn.upsaclay.fr/competitions/3087">HERE</a></b>. The dataset can be downloaded from the challenge website. The challenge contains a total of 31 buildings with multiple floors each and dozens of rooms on each floor. Of which, 20 buildings are designated as the <i>training</i> set, with a total of 49 point clouds. The validation and testing 
+sets contain 5.5 buildings with 21 point clouds each. For each model, there is a point cloud in LAZ format. For the training and validation sets, a corresponding floorplan aligned with the coordinate system of the point cloud is also provided.
             <!--p><b>Floorplan Reconstruction Task:</b></p>
             <p><b>3D Building Model Reconstruction Task:</b></p-->
 
 
             <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Metrics</h4>
             <p>To be announced soon.</p>
-            <!--p>We will include metrics to evaluate the reconstruction of the walls, doors, floor area and windows.</p>
+            <p>We will include metrics to evaluate the reconstruction of the walls, doors, floor area and windows.</p>
             <p><b>2D Evaluation Metrics</b></p>
             <p style="text-align:left;"></p>
-
+        <p>We will include metrics to evaluate the reconstruction of the walls, doors, floor area and windows.</p>
+        <p><b>2D Evaluation Metrics</b></p>
+        <p style="text-align:left;">
+        <b>Geometric Metrics:</b><br/>
+        <ul style="text-align:left;">
+          <li><i>IoU</i> of the each room (a room is defined as a completely separated area with walls and doors).</li>
+          <li><i>Accuracy of endpoints</i>. Precision/Recall and F-measure will be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match.</li>
+          <li><i>Orientation</i>. For each matched line between the ground truth, we will compute the cosine similarity metric between them as the normalized dot product. If a line is not matched with ground truth, the cosine metric will be zero. Finally, the metric will be averaged over all the ground truth lines.</li>
+        </ul>
+        </p>
+        <p style="text-align:left;">
+        <b>Topological Metrics:</b><br/>
+        We will also evaluate topological metrics that measure whether the connectivity of the rooms match the ground truth.
+        <ul style="text-align:left;">
+          <li><i>Warping error(<a href="https://ieeexplore.ieee.org/document/5539950">Jain et al. 2010</a>).</i>The warping error will first warp the predicted floorplan to the ground truth with a homotopic deformation, and then compute the pixels that cannot match after the deformation.</li>
+          <li><i>Betti number error.</i>The Betti number error will compare the Betti numbers between the prediction and the ground truth and output the absolute value of the difference.</li>
+        </ul>
+        </p>
             <p><b>3D Evaluation Metrics</b></p>
             <p style="text-align:left;"></p-->
 
             <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Evaluation and Submission</h4>
-            <p>To be announced soon.</p>
+        <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Evaluation and Submission</h4>
+        <p> The evaluation code for the 2D floorplan task is available from <a href="https://github.com/seravee08/WarpingError_Floorplan">This GitHub Repository</a>. </p>
+        <p>Submission of results on the testing set and evaluation on the ground truth data will be available on the Codalab <a href="https://codalab.lisn.upsaclay.fr/competitions/3087">evaluation server</a>. For 2D, the submission will be
+                 in the same JSON format as in the ground truth provided to you. For 3D, the submission will be in the DXF format.</p>
                   
             <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Questions?</h4>
             <p>Contact the organizers at: <a href="mailto:cv4aec.3d@gmail.com">cv4aec.3d@gmail.com</a></p>
@@ -471,7 +492,7 @@
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="img/people_22/iroarmeni.jpg" alt="iro_armeni">
               <h4><a href="https://cs.stanford.edu/~iarmeni/">Iro Armeni</a></h4>
-              <p class="text-muted">Postdorctoral Researcher, ETHZ</p>
+              <p class="text-muted">Postdoctoral Researcher, ETHZ</p>
             </div>
           </div>
           <div class="col-sm-3 col-md-3 col-lg-3">
