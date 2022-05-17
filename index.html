@@ -482,7 +482,7 @@ DXF exports have arbitrary designations of conjunctions of walls, i.e. the corne
               will not be allowed. </p>
             
             <p> The JSON files contain the following information: Model name, Number of layers. <br>
-          For each layer, there is: Object type; Number of element; <br> Details per element: <br>
+          For each layer, there is: Object type; Number of elements. <br> Details per element: <br>
 Walls: object_type, endpoints (of raw middle lines), thickness, height, elevation if not encoded in the endpoints <br>
 Doors/Columns: object_type, endpoint, thickness, height, elevation if not encoded in the endpoint <br> </p>
 
@@ -510,7 +510,7 @@ Doors/Columns: object_type, endpoint, thickness, height, elevation if not encode
         <p style="text-align:left;">
         <b> Geometric Metrics: </b><br/>
         <ul style="text-align:left;">
-          <li><i>3D IoU</i> of the 3D bounding box of each wall </li>
+          <li><i>3D IoU</i> of the 3D bounding box of each wall. </li>
           <li><i>Accuracy of the endpoints</i>. Precition/Recall at 3 different thresholds: 5cm, 10cm and 20cm, as well as F-measure will be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match.</li>
             <p style="text-align:left;"></p>
 
