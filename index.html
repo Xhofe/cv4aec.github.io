@@ -472,6 +472,12 @@ sets contain 5.5 buildings with 21 point clouds each. For each model, there is a
             <p> The training set is available to be downloaded from Codalab. The training data consists of 11 floors from 7 buildings. For each model, there is an 
 aligned point cloud in LAZ format. The 3D building coordinates for walls, columns and doors are presented in 3 separate JSON files. The training data can be downloaded 
 from the <b><a href="https://codalab.lisn.upsaclay.fr/competitions/4144">Codalab page</a></b> </p>
+            <p> We decided to NOT provide proprietary formats such as Autodesk Revit files since there does not exist good open-source APIs to read them. The reason we decided not to provide an open format such as DXF is because 
+DXF exports have arbitrary designations of conjunctions of walls, i.e. the corner will belong to only one of the walls in the DXF files, and the designation which corner
+              belongs to which wall is arbitrary. 
+            </p>
+            <p> We would like to note that ALL the submissions <b>need to be constructed automatically</b>. Manual reconstructions are against the spirit of this challenge and
+              will not be allowed </p>
             
             <p> The JSON files contain the following information: Model name, Number of layers. <br>
           For each layer, there is: Object type; Number of element; Details per element: <br>
