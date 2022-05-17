@@ -476,11 +476,13 @@ from the <b><a href="https://codalab.lisn.upsaclay.fr/competitions/4144">Codalab
 DXF exports have arbitrary designations of conjunctions of walls, i.e. the corner will belong to only one of the walls in the DXF files, and the designation which corner
               belongs to which wall is arbitrary. 
             </p>
+            <p> In our JSON format, we provide walls as middle lines + thickness. The middle lines will connect to each other at corners. Hence there is no ambiguity on which 
+              part of the corner belongs to which wall. </p> 
             <p> We would like to note that ALL the submissions <b>need to be constructed automatically</b>. Manual reconstructions are against the spirit of this challenge and
-              will not be allowed </p>
+              will not be allowed. </p>
             
             <p> The JSON files contain the following information: Model name, Number of layers. <br>
-          For each layer, there is: Object type; Number of element; Details per element: <br>
+          For each layer, there is: Object type; Number of element; <br> Details per element: <br>
 Walls: object_type, endpoints (of raw middle lines), thickness, height, elevation if not encoded in the endpoints <br>
 Doors/Columns: object_type, endpoint, thickness, height, elevation if not encoded in the endpoint <br> </p>
 
@@ -492,7 +494,7 @@ Doors/Columns: object_type, endpoint, thickness, height, elevation if not encode
         <b>Geometric Metrics:</b><br/>
         <ul style="text-align:left;">
           <li><i>IoU</i> of the each room (a room is defined as a completely separated area with walls and doors).</li>
-          <li><i>Accuracy of endpoints</i>. Precision/Recall and F-measure will be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match.</li>
+          <li><i>Accuracy of endpoints</i>. Precision/Recall at 3 different thresholds: 5cm, 10cm and 20cm, as well as the F-measure at each threshold will be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match.</li>
           <li><i>Orientation</i>. For each matched line between the ground truth, we will compute the cosine similarity metric between them as the normalized dot product. If a line is not matched with ground truth, the cosine metric will be zero. Finally, the metric will be averaged over all the ground truth lines.</li>
         </ul>
         </p>
@@ -509,14 +511,16 @@ Doors/Columns: object_type, endpoint, thickness, height, elevation if not encode
         <b> Geometric Metrics: </b><br/>
         <ul style="text-align:left;">
           <li><i>3D IoU</i> of the 3D bounding box of each wall </li>
-          <li><i>Accuracy of the endpoints</i>. Precition/Recall and F-measure wiwll be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match.</li>
-            <p style="text-align:left;"></p-->
+          <li><i>Accuracy of the endpoints</i>. Precition/Recall at 3 different thresholds: 5cm, 10cm and 20cm, as well as F-measure will be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match.</li>
+            <p style="text-align:left;"></p>
 
       
         <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Evaluation and Submission</h4>
         <p> The evaluation code for the 2D floorplan task is available from <a href="https://github.com/seravee08/WarpingError_Floorplan">This GitHub Repository</a>. </p>
         <p>Submission of results on the testing set and evaluation on the ground truth data will be available on the Codalab <a href="https://codalab.lisn.upsaclay.fr/competitions/3087">evaluation server</a>. For 2D, the submission will be
-                 in the same JSON format as in the ground truth provided to you. For 3D, the submission will be in the DXF format.</p>
+          in the same JSON format as in the ground truth provided to you. </p>
+        <p>The evaluation code for the 3D building reconstruction task is available from <a href="https://github.com/arkhodakov/cvpr-2022-matching/">This GitHub Repository</a>. 
+          For 3D entries, the submission will be in the same JSON format as provided to the <a href="https://codalab.lisn.upsaclay.fr/competitions/4144">3D Codalab evaluation server</a> .</p>
                   
             <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Questions?</h4>
             <p>Contact the organizers at: <a href="mailto:cv4aec.3d@gmail.com">cv4aec.3d@gmail.com</a></p>
