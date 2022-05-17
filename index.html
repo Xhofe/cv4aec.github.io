@@ -473,10 +473,10 @@ sets contain 5.5 buildings with 21 point clouds each. For each model, there is a
 aligned point cloud in LAZ format. The 3D building coordinates for walls, columns and doors are presented in 3 separate JSON files. The training data can be downloaded 
 from the <b><a href="https://codalab.lisn.upsaclay.fr/competitions/4144">Codalab page</a></b> </p>
             
-            <p> The JSON files contain the following information: Model name, Number of layers. </b>
-          For each layer, there is: Object type; Number of element; Details per element: </b>
-Walls: object_type, endpoints (of raw middle lines), thickness, height, elevation if not encoded in the endpoints </b>
-Doors/Columns: object_type, endpoint, thickness, height, elevation if not encoded in the endpoint </b> </p>
+            <p> The JSON files contain the following information: Model name, Number of layers. <br>
+          For each layer, there is: Object type; Number of element; Details per element: <br>
+Walls: object_type, endpoints (of raw middle lines), thickness, height, elevation if not encoded in the endpoints <br>
+Doors/Columns: object_type, endpoint, thickness, height, elevation if not encoded in the endpoint <br> </p>
 
 
             <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Metrics</h4>
@@ -499,6 +499,7 @@ Doors/Columns: object_type, endpoint, thickness, height, elevation if not encode
         </ul>
         </p>
             <p><b>3D Evaluation Metrics</b></p>
+        <p style="text-align:left;">
         <b> Geometric Metrics: </b><br/>
         <ul style="text-align:left;">
           <li><i>3D IoU</i> of the 3D bounding box of each wall </li>
