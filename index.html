@@ -68,7 +68,9 @@
           
           <div class="intro-lead-in" style="margin-bottom:0px;padding-bottom:0px;">June 19th 2022, Full Day Workshop</div> 
 
-          <p style="margin-top:50px;color:red"><i>Latest Update from the Conference Organizers:<br>"Unless the epidemiological situation changes drastically, CVPR 2022 will be in person, with an online option for those who cannot travel."</i></p>
+          <p style="margin-top:50px;color:red"><i>Latest Update from the Conference Organizers:
+            <br> <i>5/16/22: Challenge information updated! </i></br>
+            <br>"Unless the epidemiological situation changes drastically, CVPR 2022 will be in person, with an online option for those who cannot travel."</i></p>
 
           <p style="margin-top:100px;font-style:italic">Held in conjunction with the<br><a href="https://cvpr2022.thecvf.com/">IEEE Conference on Computer Vision and Pattern Recognition 2022.</a></p>
           <img src="img/logos/cvpr2022.png" width="50%">
@@ -458,7 +460,7 @@
         <div class="row">   
           <div class="col-lg-12 text-center">
             <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Dataset</h4>
-        <p>The challenge is hosted on Codalab <b><a href="https://codalab.lisn.upsaclay.fr/competitions/3087">HERE</a></b>. The dataset can be downloaded from the challenge website. </p>
+        <p>The 2D challenge is hosted on Codalab <b><a href="https://codalab.lisn.upsaclay.fr/competitions/3087">HERE</a></b>. The dataset can be downloaded from the challenge website. </p>
                         <p><b>Floorplan Reconstruction Task:</b></p>
             The 2D Floorplan Reconstruction challenge contains a total of 31 buildings with multiple floors each and dozens of rooms on each floor. Of which, 20 buildings are designated as the <i>training</i> set, with a total of 49 point clouds. The validation and testing 
 sets contain 5.5 buildings with 21 point clouds each. For each model, there is a point cloud in LAZ format. For the training and validation sets, a corresponding floorplan aligned with the coordinate system of the point cloud is also provided.
@@ -466,12 +468,19 @@ sets contain 5.5 buildings with 21 point clouds each. For each model, there is a
             <p style="margin-top:10px"><b>File Specifications:</b> A description of the file formats and sample code to read/write these files can be found <b><a href="filespecs.html">HERE</a></b>.
 
             <p><b>3D Building Model Reconstruction Task:</b></p>
-            <p> The trarining set is available to be downloaded from Codalab. The training data consists of 11 floors from 7 buildings. For each model, there is an 
+            <p> The 3D Challenge is now hosted as <a href="https://codalab.lisn.upsaclay.fr/competitions/4144"> a separate competition on Codalab</a> </p>
+            <p> The training set is available to be downloaded from Codalab. The training data consists of 11 floors from 7 buildings. For each model, there is an 
 aligned point cloud in LAZ format. The 3D building coordinates for walls, columns and doors are presented in 3 separate JSON files. The training data can be downloaded 
-from the <b><a href="https://codalab.lisn.upsaclay.fr/competitions/3087">Codalab page</a></b> </p>
+from the <b><a href="https://codalab.lisn.upsaclay.fr/competitions/4144">Codalab page</a></b> </p>
+            
+            <p> The JSON files contain the following information: Model name, Number of layers. </b>
+          For each layer, there is: Object type; Number of element; Details per element: </b>
+Walls: object_type, endpoints (of raw middle lines), thickness, height, elevation if not encoded in the endpoints </b>
+Doors/Columns: object_type, endpoint, thickness, height, elevation if not encoded in the endpoint </b> </p>
+
 
             <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Metrics</h4>
-        <p>We will include metrics to evaluate the reconstruction of the walls, doors, floor area and windows.</p>
+        <p>We will include metrics to evaluate the reconstruction of the walls, doors, and columns, as well as floor area in 2D.</p>
         <p><b>2D Evaluation Metrics</b></p>
         <p style="text-align:left;">
         <b>Geometric Metrics:</b><br/>
@@ -490,6 +499,10 @@ from the <b><a href="https://codalab.lisn.upsaclay.fr/competitions/3087">Codalab
         </ul>
         </p>
             <p><b>3D Evaluation Metrics</b></p>
+        <b> Geometric Metrics: </b><br/>
+        <ul style="text-align:left;">
+          <li><i>3D IoU</i> of the 3D bounding box of each wall </li>
+          <li><i>Accuracy of the endpoints</i>. Precition/Recall and F-measure wiwll be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match.</li>
             <p style="text-align:left;"></p-->
 
       
