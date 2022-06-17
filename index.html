@@ -66,7 +66,7 @@
           <div class="intro-lead-in">2nd Workshop and Challenge on</div>
           <div class="intro-heading text-uppercase"><span style="font-weight:600">Computer Vision in the Built Environment</span><br> <span style="text-transform:lowercase;font-style:italic">for the</span> Design, Construction, <span style="text-transform:lowercase;font-style:italic">and</span> Operation of Buildings</div>
           
-          <div class="intro-lead-in" style="margin-bottom:0px;padding-bottom:0px;">June 19th 2022, Full_Day Workshop</div> 
+          <div class="intro-lead-in" style="margin-bottom:0px;padding-bottom:0px;">June 19th 2022, Full Day Workshop</div> 
 
           <p style="margin-top:50px;color:red"><i>Latest Update from the Conference Organizers:
             <br> <i>5/16/22: <a href="#challenge">Challenge information</a> updated! </i></br>
@@ -522,6 +522,138 @@ Doors/Columns: object_type, endpoint, thickness, height, elevation if not encode
         <p>The evaluation code for the 3D building reconstruction task is available from <a href="https://github.com/arkhodakov/cvpr-2022-matching/">This GitHub Repository</a>. 
           For 3D entries, the submission will be in the same JSON format as provided to the <a href="https://codalab.lisn.upsaclay.fr/competitions/5101">3D Codalab evaluation server</a> .</p>
                   
+          <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">2D Challenge Results</h4>
+                           <table id="result" style="border: 1px solid black;">
+           <tr style="border-bottom: 1px solid black;"> <th>Method Name</th>
+             <th>Team Members</th>
+             <th> Affiliation</th>
+             <th> Precision (5cm) </th>
+             <th> Precision (10cm) </th>
+             <th> Precision (20cm) </th>
+             <th> Recall (5cm) </th>
+             <th> Recall (10cm) </th>
+             <th> Recall (20cm) </th>
+             <th> Intersection-Over-Union </th>
+             <th> Warping Error </th>
+             <th> Betti Error </th>
+           </tr>
+           <tr style="border-bottom: 1px solid black;"> <th> Seg2Plan </th> <th> Shengtao Li, Gaoming Fan, Han Huang, Hairong Luo, Ge Gao, Ming Gu </th> <th> School of software/BNRist, Tsinghua University </th>
+             <th> 0.052 </th>
+             <th> 0.203 </th>
+             <th> 0.335 </th>
+             <th> 0.015 </th>
+             <th> 0.065 </th>
+             <th> 0.114 </th> 
+             <th> 0.657 </th>
+             <th> 0.249 </th>
+             <th> 1.076 </th>
+           </tr>
+           
+           <tr style="border-bottom: 1px solid black;"> <th> S2FP </th> <th> Ekin Celikkan, Theodora Kontogianni, Francis Engelmann</th> <th> RWTH Aachen University (Computer Vision Group), ETH Zurich (AI Center) </th>
+            <th> 0.020 </th>
+             <th> 0.085 </th>
+             <th> 0.146 </th>
+             <th> 0.048 </th>
+             <th> 0.220 </th>
+             <th> 0.375 </th> 
+             <th> 0.517 </th>
+             <th> 0.188 </th>
+             <th> 1.140 </th>
+           </tr> 
+           <tr style="border-bottom: 1px solid black;"> <th> FLKPP </th> <th> Yijie Wu, Maosu Li, and Fan Xue </th><th> The University of Hong Kong </th>
+            <th> 0.016 </th>
+             <th> 0.068 </th>
+             <th> 0.132 </th>
+             <th> 0.032 </th>
+             <th> 0.129 </th>
+             <th> 0.253 </th> 
+             <th> 0.374 </th>
+             <th> 0.258 </th>
+             <th> 1.128 </th>
+           </tr>
+           <tr style="border-bottom: 1px solid black;"> <th> VecIM </th> <th> Paul Liu</th><th> Institute of Automation, Chinese Academy of Sciences </th>
+            <th> 0.000 </th>
+             <th> 0.000 </th>
+             <th> 0.000 </th>
+             <th> 0.000 </th>
+             <th> 0.000 </th>
+             <th> 0.000 </th> 
+             <th> 0.000 </th>
+             <th> 0.731 </th>
+             <th> 1.646 </th>
+           </tr> 
+           
+           
+        </table>
+                      <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">3D Challenge Results</h4>
+                           <table id="result" style="border: 1px solid black;">
+           <tr style="border-bottom: 1px solid black;"> <th>Method Name</th>
+             <th>Team Members</th>
+             <th> Affiliation</th>
+             <th> Average IoU </th>
+             <th> Columns IoU </th>
+             <th> Doors IoU </th>
+             <th> Walls IoU </th>
+             <th> 5cm Average F1 </th>
+             <th> 10cm Average F1 </th>
+             <th> 20cm Average F1 </th>
+             <th> 10cm Columns F1 </th>
+             <th> 10cm Doors F1 </th>
+             <th> 10cm Walls F1 </th>
+           </tr>
+           
+            <tr style="border-bottom: 1px solid black;"> <th>  Seg2BIM </th> <th> Han Huang, Gaoming Fan, Shengtao Li, Ge Gao, Ming Gu </th><th> School of software/BNRist, Tsinghua University </th>
+            <th> 0.309 </th>
+             <th> 0.470 </th>
+             <th> 0.260 </th>
+             <th> 0.266 </th>
+             <th> 0.417 </th>
+             <th> 0.515 </th>
+             <th> 0.577 </th>
+             <th> 0.618 </th>
+             <th> 0.494 </th>
+             <th> 0.477 </th>
+           </tr> 
+           <tr style="border-bottom: 1px solid black;"> <th> FLKPP </th> <th> Yijie Wu, Maosu Li, and Fan Xue </th><th> The University of Hong Kong </th>
+            <th> 0.231 </th>
+             <th> 0.372 </th>
+             <th> 0.230 </th>
+             <th> 0.152 </th>
+             <th> 0.316 </th>
+             <th> 0.454 </th>
+             <th> 0.584 </th>
+             <th> 0.608 </th>
+             <th> 0.367 </th>
+             <th> 0.452 </th>
+           </tr> 
+
+           <tr style="border-bottom: 1px solid black;"> <th>  PointToBIM: Leveraging Space Parsing for the Manhattan World Environment </th> <th> Mansour Mehranfar, Miguel Vega, Yuandong Pan, Saeed Mafipour, Florian Noichl, Fiona Collings </th><th> Technical University of Munich,  Computational Modeling and Simulation </th>
+            <th> 0.170 </th>
+             <th> 0.396 </th>
+             <th> 0.061 </th>
+             <th> 0.150 </th>
+             <th> 0.276 </th>
+             <th> 0.366 </th>
+             <th> 0.448 </th>
+             <th> 0.633 </th>
+             <th> 0.165 </th>
+             <th> 0.415 </th>
+           </tr> 
+           <tr style="border-bottom: 1px solid black;"> <th>  BoxDetector </th> <th> Yu Bai, Matthew and Jian Zhang </th><th> Tongji University  </th>
+            <th> 0.024 </th>
+             <th> 0.038 </th>
+             <th> 0.006 </th>
+             <th> 0.033 </th>
+             <th> 0.109 </th>
+             <th> 0.171 </th>
+             <th> 0.258 </th>
+             <th> 0.167 </th>
+             <th> 0.144 </th>
+             <th> 0.197 </th>
+           </tr> 
+           
+        </table>
+          
             <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Questions?</h4>
             <p>Contact the organizers at: <a href="mailto:cv4aec.3d@gmail.com">cv4aec.3d@gmail.com</a></p>
           </div>
