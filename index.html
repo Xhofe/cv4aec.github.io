@@ -73,9 +73,6 @@
           <div class="intro-heading text-uppercase"><span style="font-weight:600">Computer Vision in the Built Environment</span><br> <span style="text-transform:lowercase;font-style:italic">for the</span> Design, Construction, <span style="text-transform:lowercase;font-style:italic">and</span> Operation of Buildings</div>
           
           <div class="intro-lead-in" style="margin-bottom:0px;padding-bottom:0px;">June 18th 2023, Full Day Workshop</div> 
-
-          <p style="margin-top:50px;color:red">News: Codalab links will be added soon.</p>
-
           <p style="margin-top:100px;font-style:italic">Held in conjunction with the<br><a href="https://cvpr2023.thecvf.com/">IEEE Conference on Computer Vision and Pattern Recognition 2023.</a></p>
           <img src="img/logos/cvpr2023.png" width="50%">
 
@@ -439,8 +436,8 @@
           </div>
           <div class="col-sm-7 col-md-7 col-lg-7">
             <ul>
-              <li>Evaluation server open to evaluate test submissions: TBD</li>
-              <li>Challenge submission deadline: TBD</li>
+              <li>Evaluation server open to evaluate test submissions: <b>April 12</b> </li>
+              <li>Challenge submission deadline: TBD </li>
               <li>Notification to participants:  TBD</li>
               <li>Workshop day: <b>June 18, 2023, Monday. Day 1 of CVPR 2023.</b></li>
             </ul>
@@ -473,15 +470,18 @@
         <div class="row">   
           <div class="col-lg-12 text-center">
             <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Dataset</h4>
-              <p>The 2D challenge is hosted on Codalab <b><a href="">HERE</a></b>. The dataset can be downloaded from the challenge website. </p>
+            
+              <p>The 2D challenge is hosted on Codalab <b><a href="https://codalab.lisn.upsaclay.fr/competitions/12386">HERE</a></b>. The dataset can be downloaded from the challenge website. </p>
               <p><b>Floorplan Reconstruction Task:</b></p>
               <p>The 2D Floorplan Reconstruction challenge contains a total of 31 buildings with multiple floors each and dozens of rooms on each floor. Of which, 20 buildings are designated as the <i>training</i> set, with a total of 49 point clouds. The validation and testing sets contain 5.5 buildings with 21 point clouds each. For each model, there is an aligned point cloud in LAZ format. For the training and validation sets, a corresponding floorplan aligned with the coordinate system of the point cloud is also provided.<br>
               <b>File Specifications:</b> A description of the file formats and sample code to read/write these files can be found <b><a href="filespecs.html">HERE</a></b>.
 
               <br><br>
               <p><b>3D Building Model Reconstruction Task:</b></p>
-              <p> The 3D Challenge is now hosted as a separate competition on Codalab <b><a href="">HERE</a></b>. The dataset can be downloaded from the challenge website.</p>
-              <p>The 3D Building Model Reconstruction challenge contains a total of 28 floors from 17 buildings. Of which, 13 buildings are designated as the <i>training</i> set, with a total of 21 point clouds. For each model, there is an aligned point cloud in LAZ format. We focus on the reconstruction of walls, columns, and doors.<br>
+              <p> The 3D Challenge is now hosted as a separate competition on Codalab <b><a href="https://codalab.lisn.upsaclay.fr/competitions/12405">HERE</a></b>.
+              The dataset can be downloaded from the challenge website.</p>
+              <p>The training data consists of 18 floors from 10 buildings. For each model, there is an aligned point cloud in LAZ format. 
+                The 3D building coordinates for walls, columns and doors are presented in 3 separate JSON files. We focus on the reconstruction of walls, columns, and doors.<br>
               <b>File Specifications:</b> A description of the file contents can be found <b><a href="filespecs.html#3dchallenge">HERE</a></b>.
               
 
@@ -517,9 +517,16 @@
 
       
         <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Evaluation and Submission</h4>
-        <p> We would like to note that ALL the submissions <b>need to be constructed automatically</b>. Manual reconstructions are against the spirit of this challenge and will not be allowed. </p>
-        <p><b>2D Floorplan Reconstruction:</b> The evaluation code for the 2D floorplan task is available from <a href="https://github.com/seravee08/WarpingError_Floorplan">This GitHub Repository</a>. Submission of results on the testing set and evaluation on the ground truth data will be available on the <a href="">2D Codalab evaluation server</a>. The submission will be in the same JSON format as in the ground truth provided to you.</p>
-        <p><b>3D Building Model Reconstruction:</b> The evaluation code for the 3D building reconstruction task is available from <a href="https://github.com/arkhodakov/cvpr-2022-matching/">This GitHub Repository</a>. The submission will be in the same JSON format as provided at the <a href="">3D Codalab evaluation server</a>.</p>
+        <p> We would like to note that ALL the submissions <b>need to be constructed automatically</b>. Manual reconstructions are against the spirit of this 
+          challenge and will not be allowed. </p>
+        <p><b>2D Floorplan Reconstruction:</b> The evaluation code for the 2D floorplan task is available from 
+          <a href="https://github.com/cv4aec/2d-floorplan-eval">this repository</a>. 
+          Submission of results on the testing set and evaluation on the ground truth data will be available on the 
+          <a href="https://codalab.lisn.upsaclay.fr/competitions/12386">2D Codalab evaluation server</a>. 
+          The submission will be in the same JSON format as in the ground truth provided to you.</p>
+        <p><b>3D Building Model Reconstruction:</b> The evaluation code for the 3D building reconstruction task is available from 
+          <a href="https://github.com/arkhodakov/cvpr-2022-matching/">this repository</a>. The submission will be in the same JSON 
+          format as provided at the <a href="https://codalab.lisn.upsaclay.fr/competitions/12405">3D Codalab evaluation server</a>.</p>
                  
           
             <h4 class="section-heading text-uppercase text-center" style="margin-top:100px">Questions?</h4>
