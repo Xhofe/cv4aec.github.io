@@ -29,12 +29,13 @@ To further establish connections between the two domains and identify what we ca
 ---
 
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
-- **12 April 2023 (00:00 UTC) ---** Training + Validation + Testing data available for 2D 
-- **14 April 2023 (00:00 UTC) ---** Training + Testing data available for 3D
-- **15 Apr 2023 (00:00 UTC) ---** Evaluation server **open** to evaluate test submissions
-- **02 June 2023 (00:00 UTC) ---** Challenge Submission Deadline
-- **07 June 2023 (00:00 UTC) ---** Notification To Participants
-- **18 June 2023 ---** CV4AEC Workshop @ CVPR 2023
+> **NOTE**: The submission/release times are **00:00:00 UTC** on the specified dae. 
+- **12 Apr 2023 ---** Training + Validation + Testing data available for 2D 
+- **14 Apr 2023 ---** Training + Testing data available for 3D
+- **15 Apr 2023 ---** Evaluation server **open** to evaluate test submissions
+- **02 Jun 2023 ---** Challenge Submission Deadline
+- **07 Jun 2023 ---** Notification To Participants
+- **18 Jun 2023 ---** CV4AEC Workshop @ CVPR 2023
 
 ## :calendar: **Schedule** {#schedule}
 
