@@ -29,7 +29,8 @@ To further establish connections between the two domains and identify what we ca
 ---
 
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
-> **NOTE**: The submission/release times are **00:00:00 UTC** on the specified dae. 
+> **NOTE**: The submission/release times are **00:00:00 UTC** on the specified date.
+ 
 - **12 Apr 2023 ---** Training + Validation + Testing data available for 2D 
 - **14 Apr 2023 ---** Training + Testing data available for 3D
 - **15 Apr 2023 ---** Evaluation server **open** to evaluate test submissions
