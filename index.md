@@ -201,24 +201,6 @@ Challenge winners will be determined based on the **pointcloud-based F-Score** p
 
 ---
 # **Organizers** {#organizers}
-## :grimacing: **Student Organizers** {#student-organizers}
-<div class="container">
-<figure>
-    <a href="https://sayandebsarkar.com/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2023/sayandebsarkar.png" alt="Sayan Deb Sarkar"/></a>
-    <b><br><a href="https://sayandebsarkar.com/">Sayan Deb Sarkar</a>
-    <br>MSc CS <br> ETHZ</b>
-</figure>
-
-<figure>
-    <a href="https://antonskoltech.github.io/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2023/antonegorov.jpeg" alt="Anton Egorov"/></a>
-    <b><br><a href="https://antonskoltech.github.io/">Anton Egorov</a>
-    <br>Data Scientist <br> Ozon Tech </b>
-</figure>
-
-</div>
-
 ## :construction_worker: **Senior Organizers** {#senior-organizers}
 <div class="container">
 <figure>
@@ -289,6 +271,24 @@ Challenge winners will be determined based on the **pointcloud-based F-Score** p
     <img class="img-author" src="assets/imgs/authors/cvpr2023/yeldaturkan.jpg" alt="Yelda Turkan"/></a>
     <b><br><a href="https://cce.oregonstate.edu/turkan">Yelda Turkan</a>
     <br>Professor, CEE <br> Oregon State</b>
+</figure>
+
+</div>
+
+## :grimacing: **Student Organizers** {#student-organizers}
+<div class="container">
+<figure>
+    <a href="https://sayandebsarkar.com/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2023/sayandebsarkar.png" alt="Sayan Deb Sarkar"/></a>
+    <b><br><a href="https://sayandebsarkar.com/">Sayan Deb Sarkar</a>
+    <br>MSc CS <br> ETHZ</b>
+</figure>
+
+<figure>
+    <a href="https://antonskoltech.github.io/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2023/antonegorov.jpeg" alt="Anton Egorov"/></a>
+    <b><br><a href="https://antonskoltech.github.io/">Anton Egorov</a>
+    <br>Data Scientist <br> Ozon Tech </b>
 </figure>
 
 </div>
