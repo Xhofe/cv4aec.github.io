@@ -48,17 +48,17 @@ To further establish connections between the two domains and identify what we ca
 | 09:00 - 09:30 | 30 mins  | Introduction to Workshop and Challenge                                 |
 | 09:30 - 10:00 | 30 mins  | **Avideh Zakhor** -- TBD                                               |
 | 10:00 - 10:30 | 30 mins  | **Pinbo Tang** -- Efficient Operations of Aging Civil Infrastructure   |
-| 10:30 - 11:15 | 45 mins  | Winner Presentations, 2D Floorplan Reconstruction                      |
-| 11:15 - 11:30 | 15 mins  | _Coffee Break_                                                         |
+| 10:30 - 10:45 | 15 mins  | _Coffee Break_                                                         |
+| 10:45 - 11:30 | 45 mins  | Winner Presentations, 2D Floorplan Reconstruction                      |
 | 11:30 - 12:00 | 30 mins  | **Manmohan Chandraker** - TBD                                          |
 | 12:00 - 12:30 | 30 mins  | **Mani Golparvar Fard** - TBD                                          |
-| 12:30 - 13:15 | 45 mins  | Winner Presentations, 3D Building Model Reconstruction                 |
-| 13:15 - 14:15 | 60 mins  | _Lunch Break_                                                          |
+| 12:30 - 13:30 | 60 mins  | _Lunch Break_                                                          | 
+| 13:30 - 14:15 | 45 mins  | Winner Presentations, 3D Building Model Reconstruction                 |
 | 14:15 - 15:00 | 45 mins  | _Community Engagement_                                                 |
 | 15:00 - 15:30 | 30 mins  | **Despoina Paschalidou** -- Manipulating 3D Environments               |
 | 15:30 - 16:00 | 30 mins  | **Fernanda Leite** -- TBD                                              |
-| 16:00 - 16:30 | 30 mins  | _Keynote Talk_ -- TBD                                                  |
-| 16:30 - 17:00 | 30 mins  | _Coffee Break_                                                         |
+| 16:00 - 16:30 | 30 mins  | _Coffee Break_                                                         |
+| 16:30 - 17:00 | 30 mins  | _Keynote Talk_ -- TBD                                                  |
 | 17:00 - 17:45 | 45 mins  | _Panel Discussion_                                                     |
 | 17:45 - 18:00 | 15 mins  | _Conclusion Remarks_                                                   |
 
@@ -112,7 +112,7 @@ To further establish connections between the two domains and identify what we ca
 
 </div>
 
-[**Avideh Zakor**](https://www2.eecs.berkeley.edu/Faculty/Homepages/zakhor.html)
+[**Avideh Zakhor**](https://www2.eecs.berkeley.edu/Faculty/Homepages/zakhor.html)
 is a Professor of electrical engineering and computer science at the University of California at Berkeley (Berkeley) where she holds the Qualcomm chair. Prof. Zakhor’s research is focused on 3D computer vision, reality capture for augmented and virtual reality, sensor fusion, and application of deep learning to signal, image and video processing. Dr. Zakhor is the recipient of multiple awards underscoring both her academic and professional qualifications including the winner of phase 1 and 2 of U.S. Department of Energy sponsored E-Robot project in 2021 and 2022. She is a fellow of IEEE and was chosen as the  SPIE Electronic Imaging Scientist of the Year  in 2018. Dr. Zakhor has spun off numerous startups from her lab at UC Berkeley. In 2005, she co-founded UrbanScan to commercialize software/hardware systems for rapid 3D, automated 3D modeling of cities, which became part of Google Earth product when UrbanScan was acquired by Google (Nasdaq;GOOG) in 2007. In 2015, she founded Indoor Reality  to develop 3D indoor mapping technologies for fast, automated, visual documentation, asset management, and energy audits of existing buildings. Indoor Reality was acquired by a large multi-billion dollar construction supplies company in 2019.
 
 [**Pingbo Tang**](https://www.cmu.edu/cee/people/faculty/tang.html)
@@ -200,8 +200,26 @@ Submissions will be evaluated on a variety of metrics:
 Challenge winners will be determined based on the **pointcloud-based F-Score** performance. -->
 
 ---
+# **Organizers** {#organizers}
+## :grimacing: **Student Organizers** {#student-organizers}
+<div class="container">
+<figure>
+    <a href="https://sayandebsarkar.com/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2023/sayandebsarkar.png" alt="Sayan Deb Sarkar"/></a>
+    <b><br><a href="https://sayandebsarkar.com/">Sayan Deb Sarkar</a>
+    <br>MSc CS <br> ETHZ</b>
+</figure>
 
-## :construction_worker: **Organizers** {#organizers}
+<figure>
+    <a href="https://antonskoltech.github.io/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2023/antonegorov.jpeg" alt="Anton Egorov"/></a>
+    <b><br><a href="https://antonskoltech.github.io/">Anton Egorov</a>
+    <br>Data Scientist <br> Ozon Tech </b>
+</figure>
+
+</div>
+
+## :construction_worker: **Senior Organizers** {#senior-organizers}
 <div class="container">
 <figure>
     <a href="https://ir0.github.io/">
