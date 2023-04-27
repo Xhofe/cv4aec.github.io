@@ -207,14 +207,14 @@ Challenge winners will be determined based on the **pointcloud-based F-Score** p
     <a href="https://ir0.github.io/">
     <img class="img-author" src="assets/imgs/authors/cvpr2023/iroarmeni.jpg" alt="Iro Armeni"/></a>
     <b><br><a href="https://ir0.github.io/">Iro Armeni</a>
-    <br>Postdoctoral Researcher  <br> ETHZ</b>
+    <br>Postdoctoral Researcher, CS & CEE  <br> ETHZ</b>
 </figure>
 
 <figure>
     <a href="https://www.linkedin.com/in/erzhuo-ezra-che-40888137/">
     <img class="img-author" src="assets/imgs/authors/cvpr2023/erzhuoche.jpeg" alt="Iro Armeni"/></a>
     <b><br><a href="https://www.linkedin.com/in/erzhuo-ezra-che-40888137/">Erzhuo Che</a>
-    <br>Professor, CEE <br> Oregon State</b>
+    <br>Assistant Professor (Senior Research), CEE <br> Oregon State</b>
 </figure>
 
 <figure>
@@ -228,35 +228,35 @@ Challenge winners will be determined based on the **pointcloud-based F-Score** p
     <a href="https://www.cs.sfu.ca/~furukawa/">
     <img class="img-author" src="assets/imgs/authors/cvpr2023/yasufurukawa.jpg" alt="Yasutaka Furukawa"/></a>
     <b><br><a href="https://www.cs.sfu.ca/~furukawa/">Yasutaka Furukawa</a>
-    <br>Professor, CS <br> Simon Fraser</b>
+    <br>Associate Professor, CS <br> Simon Fraser</b>
 </figure>
 
 <figure>
     <a href="https://fcl.ethz.ch/people/Module-Lead/daniel-hall.html#:~:text=Dr%20Daniel%20Hall%20is%20co,Geomatic%20Engineering%20at%20ETH%20Z%C3%BCrich.">
     <img class="img-author" src="assets/imgs/authors/cvpr2023/danielhall.jpeg" alt="Daniel Hall"/></a>
     <b><br><a href="https://fcl.ethz.ch/people/Module-Lead/daniel-hall.html#:~:text=Dr%20Daniel%20Hall%20is%20co,Geomatic%20Engineering%20at%20ETH%20Z%C3%BCrich.">Daniel Hall</a>
-    <br>Professor, CEE <br> ETHZ</b>
+    <br>Assistant Professor, CEE <br> ETHZ</b>
 </figure>
 
 <figure>
     <a href="https://research.engr.oregonstate.edu/geomatics/faculty-members">
     <img class="img-author" src="assets/imgs/authors/cvpr2023/jaehoonjung.jpeg" alt="Jaehoon Jung"/></a>
     <b><br><a href="https://research.engr.oregonstate.edu/geomatics/faculty-members">Jaehoon Jung</a>
-    <br>Professor, CEE <br> Oregon State</b>
+    <br>Assistant Professor (Senior Research), CEE <br> Oregon State</b>
 </figure>
 
 <figure>
     <a href="http://web.engr.oregonstate.edu/~lif/">
     <img class="img-author" src="assets/imgs/authors/cvpr2023/fuxinli.jpg" alt="Fuxin Li"/></a>
     <b><br><a href="http://web.engr.oregonstate.edu/~lif/">Fuxin Li</a>
-    <br>Professor, CS <br> Oregon State</b>
+    <br>Associate Professor, CS <br> Oregon State</b>
 </figure>
 
 <figure>
     <a href="https://directory.forestry.oregonstate.edu/people/olsen-michael">
     <img class="img-author" src="assets/imgs/authors/cvpr2023/michaelolsen.jpg" alt="Michael Olsen"/></a>
     <b><br><a href="https://directory.forestry.oregonstate.edu/people/olsen-michael">Michael Olsen</a>
-    <br>Professor, CEE <br> Oregon State</b>
+    <br>Associate Professor, CEE <br> Oregon State</b>
 </figure>
 
 <figure>
@@ -270,7 +270,7 @@ Challenge winners will be determined based on the **pointcloud-based F-Score** p
     <a href="https://cce.oregonstate.edu/turkan">
     <img class="img-author" src="assets/imgs/authors/cvpr2023/yeldaturkan.jpg" alt="Yelda Turkan"/></a>
     <b><br><a href="https://cce.oregonstate.edu/turkan">Yelda Turkan</a>
-    <br>Professor, CEE <br> Oregon State</b>
+    <br>Assistant Professor, CEE <br> Oregon State</b>
 </figure>
 
 </div>
@@ -288,7 +288,7 @@ Challenge winners will be determined based on the **pointcloud-based F-Score** p
     <a href="https://antonskoltech.github.io/">
     <img class="img-author" src="assets/imgs/authors/cvpr2023/antonegorov.jpeg" alt="Anton Egorov"/></a>
     <b><br><a href="https://antonskoltech.github.io/">Anton Egorov</a>
-    <br>Data Scientist <br> Ozon Tech </b>
+    <br>Research Assistance <br> Oregon State </b>
 </figure>
 
 </div>
