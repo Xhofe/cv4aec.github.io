@@ -56,7 +56,7 @@ To further establish connections between the two domains and identify what we ca
 | 13:30 - 14:15 | 45 mins  | Winner Presentations, 3D Building Model Reconstruction                 |
 | 14:15 - 15:00 | 45 mins  | _Community Engagement_                                                 |
 | 15:00 - 15:30 | 30 mins  | **Despoina Paschalidou** -- Learning to generate and manipulate 3D environments      |
-| 15:30 - 16:00 | 30 mins  | **Fernanda Leite** -- TBD                                              |
+| 15:30 - 16:00 | 30 mins  | **Fernanda Leite** -- Automated 3D Modeling and Visual Storytelling: Crossing Disciplinary Boundaries  |
 | 16:00 - 16:30 | 30 mins  | _Coffee Break_                                                         |
 | 16:30 - 17:00 | 30 mins  | _Keynote Talk_ -- TBD                                                  |
 | 17:00 - 17:45 | 45 mins  | _Panel Discussion_                                                     |
