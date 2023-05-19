@@ -50,7 +50,7 @@ To further establish connections between the two domains and identify what we ca
 | 10:00 - 10:30 | 30 mins  | **Pinbo Tang** -- Computer Vision and Multi-Source Data-Driven Simulations for Safe and Efficient Operations of Aging Civil Infrastructure   |
 | 10:30 - 10:45 | 15 mins  | _Coffee Break_                                                         |
 | 10:45 - 11:30 | 45 mins  | Winner Presentations, 2D Floorplan Reconstruction                      |
-| 11:30 - 12:00 | 30 mins  | **Manmohan Chandraker** - TBD                                          |
+| 11:30 - 12:00 | 30 mins  | **Manmohan Chandraker** - owards Photorealism in Indoor Digital Twins  |
 | 12:00 - 12:30 | 30 mins  | **Mani Golparvar Fard** - Geometry-Informed 3D Reconstruction and Recognition:  Bi-Directional Relationship Between Computer Vision and Design/Construction in the Built Environment |
 | 12:30 - 13:30 | 60 mins  | _Lunch Break_                                                          | 
 | 13:30 - 14:15 | 45 mins  | Winner Presentations, 3D Building Model Reconstruction                 |
