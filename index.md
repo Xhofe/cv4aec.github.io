@@ -14,18 +14,6 @@ The workshop will begin by establishing ways to capture the as-is status of a sp
 
 To further establish connections between the two domains and identify what we can do right now and what is still hard to solve, we will host the **3rd International Scan-to-BIM competition** targeted on acquiring the semantic as-is status of buildings given their 3D point clouds. Specifically, we will focus on the tasks of floorplan reconstruction and 3D building model reconstruction and present appropriate interdisciplinary metrics for solving them. The past two years we observed that a large gap remains before these problems can be considered solved and actually meet the needs of practitioners. We regard this workshop as the ideal environment for understanding the challenges and steps forward given that it provides convergence between the research and practical communities from multiple disciplines.
 
-<!-- ## :newspaper: **News** {#news}
-- **07 Jan 2023 ---** The workshop has now concluded! Talks will be made available soon. 
-- **19 Dec 2022 ---** :calendar: Workshop schedule released.
-- **23 Nov 2022 ---** :page_facing_up: The paper summarizing the challenge is now available on [ArXiv](https://arxiv.org/abs/2211.12174).
-- **14 Nov 2022 ---** :trophy: The challenge has now finished! Thank you to all participants.
-- **04 Nov 2022 ---** :checkered_flag: Challenge submission deadline has been extended until 14-Nov-2022.
-- **26 Oct 2022 ---** :checkered_flag: Final phase of the challenge is live.
-- **30 Sep 2022 ---** :checkered_flag: Challenge website is live! Running from 05-Oct-2022 to 08-Nov-2022.
-- **16 Sep 2022 ---** :microphone: **Oisin Mac Aodha** confirmed as keynote speaker.
-- **17 Aug 2022 ---** :microphone: **James Elder** confirmed as keynote speaker.
-- **17 Aug 2022 ---** :tada: Website is live! -->
-
 ---
 
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
@@ -34,7 +22,7 @@ To further establish connections between the two domains and identify what we ca
 - **12 Apr 2023 ---** Training + Validation + Testing data available for 2D 
 - **14 Apr 2023 ---** Training + Testing data available for 3D
 - **15 Apr 2023 ---** Evaluation server **open** to evaluate test submissions
-- **02 Jun 2023 ---** Challenge Submission Deadline
+- **~~02 Jun~~ 05 Jun 2023 (11:59:59 UTC) ---** Challenge Submission Deadline
 - **07 Jun 2023 ---** Notification To Participants
 - **18 Jun 2023 ---** CV4AEC Workshop @ CVPR 2023
 
