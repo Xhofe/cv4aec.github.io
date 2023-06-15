@@ -29,15 +29,15 @@ To further establish connections between the two domains and identify what we ca
 ## :calendar: **Schedule** {#schedule}
 
 The workshop will take place on **18 June 2023** from **08:30 - 18:00 PDT** at **CVPR (Hall East 7)**.
-> **NOTE**: Times are shown in **Pacific Daylighy Time**. Please take this into account if joining the workshop virtually.
+> **NOTE**: Times are shown in **Pacific Daylight Time**. Please take this into account if joining the workshop virtually.
 
 | Time (PDT)    | Duration | Event                                                                  |
 |---------------|----------|------------------------------------------------------------------------|
 | 09:00 - 09:30 | 30 mins  | Introduction to Workshop and Challenge                                 |
 | 09:30 - 10:00 | 30 mins  | **Avideh Zakhor** -- Improving energy efficiency of buildings using drones and robots          |
 | 10:00 - 10:30 | 30 mins  | **Pingbo Tang** -- Computer Vision and Multi-Source Data-Driven Simulations for Safe and Efficient Operations of Aging Civil Infrastructure   |
-| 10:30 - 10:45 | 15 mins  | _Coffee Break_                                                         |
-| 10:45 - 11:30 | 45 mins  | Winner Presentations, 2D Floorplan Reconstruction                      |
+| 10:30 - 10:50 | 20 mins  | _Coffee Break_                                                         |
+| 10:50 - 11:30 | 40 mins  | Winner Presentations, 2D Floorplan Reconstruction                      |
 | 11:30 - 12:00 | 30 mins  | **Manmohan Chandraker** - Towards Photorealism in Indoor Digital Twins  |
 | 12:00 - 12:30 | 30 mins  | **Mani Golparvar Fard** - Geometry-Informed 3D Reconstruction and Recognition:  Bi-Directional Relationship Between Computer Vision and Design/Construction in the Built Environment |
 | 12:30 - 13:30 | 60 mins  | _Lunch Break_                                                          | 
