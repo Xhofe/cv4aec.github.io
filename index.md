@@ -35,7 +35,7 @@ The workshop will take place on **18 June 2023** from **08:30 - 18:00 PDT** at *
 |---------------|----------|------------------------------------------------------------------------|
 | 09:00 - 09:30 | 30 mins  | Introduction to Workshop and Challenge                                 |
 | 09:30 - 10:00 | 30 mins  | **Avideh Zakhor** -- Improving energy efficiency of buildings using drones and robots          |
-| 10:00 - 10:30 | 30 mins  | **Pinbo Tang** -- Computer Vision and Multi-Source Data-Driven Simulations for Safe and Efficient Operations of Aging Civil Infrastructure   |
+| 10:00 - 10:30 | 30 mins  | **Pingbo Tang** -- Computer Vision and Multi-Source Data-Driven Simulations for Safe and Efficient Operations of Aging Civil Infrastructure   |
 | 10:30 - 10:45 | 15 mins  | _Coffee Break_                                                         |
 | 10:45 - 11:30 | 45 mins  | Winner Presentations, 2D Floorplan Reconstruction                      |
 | 11:30 - 12:00 | 30 mins  | **Manmohan Chandraker** - Towards Photorealism in Indoor Digital Twins  |
