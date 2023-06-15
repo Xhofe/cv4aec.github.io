@@ -28,10 +28,10 @@ To further establish connections between the two domains and identify what we ca
 
 ## :calendar: **Schedule** {#schedule}
 
-> **NOTE**: Times are shown in **Pacific Standard Time**. 
-> Please take this into account if joining the workshop virtually.
+The workshop will take place on **18 June 2023** from **08:30 - 18:00 PDT** at **CVPR (Hall East 7)**.
+> **NOTE**: Times are shown in **Pacific Daylighy Time**. Please take this into account if joining the workshop virtually.
 
-| Time (PST)    | Duration | Event                                                                  |
+| Time (PDT)    | Duration | Event                                                                  |
 |---------------|----------|------------------------------------------------------------------------|
 | 09:00 - 09:30 | 30 mins  | Introduction to Workshop and Challenge                                 |
 | 09:30 - 10:00 | 30 mins  | **Avideh Zakhor** -- Improving energy efficiency of buildings using drones and robots          |
