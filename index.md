@@ -13,9 +13,14 @@ Building on the success of the previous two workshops, the 3rd Workshop on Compu
 The workshop will begin by establishing ways to capture the as-is status of a space with expert speakers from both the AEC and Computer Vision domains. Attendees will be then introduced to the type of information required for the spatiotemporal analysis of our built environment in AEC, with a focus on effective management, safety, and the role of users in this process. Following that, the topic of scene understanding from 3D and 4D reconstructions will be presented. Finally, to close the loop from understanding real-world built environments to designing built environments better and faster, the topic of scene synthesis at a geometric and semantic level will be presented. The importance of closing the loop for the AEC industry is paramount, especially when considering the design paradox. Architects are designing living spaces without any feedback from their previous designs. Learning to design using data from spaces that are already occupied and in-use, can provide designers with insights on what makes spaces appropriate for supporting the quality of life of the users.
 
 To further establish connections between the two domains and identify what we can do right now and what is still hard to solve, we will host the **3rd International Scan-to-BIM competition** targeted on acquiring the semantic as-is status of buildings given their 3D point clouds. Specifically, we will focus on the tasks of floorplan reconstruction and 3D building model reconstruction and present appropriate interdisciplinary metrics for solving them. The past two years we observed that a large gap remains before these problems can be considered solved and actually meet the needs of practitioners. We regard this workshop as the ideal environment for understanding the challenges and steps forward given that it provides convergence between the research and practical communities from multiple disciplines.
-
 ---
 
+## :newspaper: **News** {#news}
+- **12 Jun 2023 ---** :calendar: Workshop schedule released.
+- **09 Jun 2023 ---** :trophy: Challenge winners have been announced! Thank you to all participants.
+- **05 Jun 2023 ---** :loudspeaker: Challenge is now concluded.
+- **10 Apr 2023 ---** :loudspeaker: Challenge dates have been announced!
+- **05 Apr 2023 ---** :tada: Website is live!
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
 > **NOTE**: The submission/release times are **00:00:00 UTC** on the specified date.
  
@@ -46,9 +51,8 @@ The workshop will take place on **18 June 2023** from **08:30 - 18:00 PDT** at *
 | 15:00 - 15:30 | 30 mins  | **Despoina Paschalidou** -- Learning to generate and manipulate 3D environments      |
 | 15:30 - 16:00 | 30 mins  | **Fernanda Leite** -- Automated 3D Modeling and Visual Storytelling: Crossing Disciplinary Boundaries  |
 | 16:00 - 16:30 | 30 mins  | _Coffee Break_                                                         |
-| 16:30 - 17:00 | 30 mins  | _Keynote Talk_ -- TBD                                                  |
-| 17:00 - 17:45 | 45 mins  | _Panel Discussion_                                                     |
-| 17:45 - 18:00 | 15 mins  | _Conclusion Remarks_                                                   |
+| 16:30 - 17:30 | 60 mins  | _Panel Discussion_                                                     |
+| 17:30 - 18:00 | 30 mins  | _Conclusion Remarks_                                                   |
 
 ---
 
@@ -115,12 +119,24 @@ is an Associate Professor at the CSE department of the University of California,
 
 [**Fernanda Leite**](https://www.caee.utexas.edu/people/faculty/faculty-directory/leite) a Professor in the Cockrell School of Engineering at the University of Texas at Austin. She holds the John A. Focht Centennial Teaching Fellowship in Civil Engineering. She combines expertise in architectural engineering and computing in her modeling and built environment research. She is an Associate Editor for the journal Automation in Construction. Most of her work has been in building and infrastructure systems information modeling, visualization and collaboration technologies, and circular economy in the built environment. At UT-Austin, Dr. Leite teaches courses on Building Information Modeling, Project Management and Economics, Construction Safety, and Sustainable Systems Engineering.
 
-
-
 ---
 
 ## :trophy: **Challenge Winners** {#winners}
-> **TBA**
+Congratulations to the challenge winners!
+
+- 2D Floorplan Reconstruction : 
+    - **1st** : Tsinghua-CBIMS 
+    - **2nd** : yijiewu-uni-hong-kong
+- 3D Building Model Reconstruction : 
+    - **1st** : yijiewu-uni-hong-kong
+    - **2nd** : Tsinghua-CBIMS
+    - **3rd** : HumanTech
+
+### Teams
+
+- Tsinghua-CBIMS : Chen PENG, Ziyi KE, Zijian SUN, Yudong LIU, Xinyi DU, Chao DENG, Ge GAO, Ming GU
+- yijiewu-uni-hong-kong : Yijie Wu, Sou-Han Chen, Qianyun Zhou, Fan Xue
+- HumanTech : Mahdi Chamseddine, Fabian Kaufmann, Jason Rambach
 
 ---
 
