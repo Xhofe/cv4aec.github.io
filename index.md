@@ -133,13 +133,10 @@ Congratulations to the challenge winners!
     - **3rd** : HumanTech
 
 ### Teams
-
 - Tsinghua-CBIMS : Chen PENG, Ziyi KE, Zijian SUN, Yudong LIU, Xinyi DU, Chao DENG, Ge GAO, Ming GU
-- yijiewu-uni-hong-kong : Yijie Wu, Sou-Han Chen, Qianyun Zhou, Fan Xue
+- yijiewu-uni-hong-kong : Yijie Wu, Sou-Han Chen, Qianyun Zhou, Siyuan Meng, Dong Liang, Fan Xue
 - HumanTech : Mahdi Chamseddine, Fabian Kaufmann, Jason Rambach
-
 ---
-
 ## :checkered_flag: **Challenge** {#challenge}
 The workshop will host the 3rd International Scan-to-BIM challenge. The challenge will include the following tasks:
 
