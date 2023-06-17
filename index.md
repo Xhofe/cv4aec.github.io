@@ -22,6 +22,9 @@ To further establish connections between the two domains and identify what we ca
 - **05 Jun 2023 ---** :loudspeaker: Challenge is now concluded.
 - **10 Apr 2023 ---** :loudspeaker: Challenge dates have been announced!
 - **05 Apr 2023 ---** :tada: Website is live!
+
+---
+
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
 > **NOTE**: The submission/release times are **00:00:00 UTC** on the specified date.
  
@@ -31,6 +34,8 @@ To further establish connections between the two domains and identify what we ca
 - **~~02 Jun~~ 05 Jun 2023 (11:59:59 UTC) ---** Challenge Submission Deadline
 - **07 Jun 2023 ---** Notification To Participants
 - **18 Jun 2023 ---** CV4AEC Workshop @ CVPR 2023
+
+---
 
 ## :calendar: **Schedule** {#schedule}
 
@@ -133,10 +138,11 @@ Congratulations to the challenge winners!
     - **2nd** : Tsinghua-CBIMS
     - **3rd** : HumanTech
 
-### Teams
-- Tsinghua-CBIMS : Chen PENG, Ziyi KE, Zijian SUN, Yudong LIU, Xinyi DU, Chao DENG, Ge GAO, Ming GU
-- yijiewu-uni-hong-kong : Yijie Wu, Sou-Han Chen, Qianyun Zhou, Siyuan Meng, Dong Liang, Fan Xue
-- HumanTech : Mahdi Chamseddine, Fabian Kaufmann, Jason Rambach
+### **Teams**
+* **Tsinghua-CBIMS** : Chen PENG, Ziyi KE, Zijian SUN, Yudong LIU, Xinyi DU, Chao DENG, Ge GAO, Ming GU
+* **yijiewu-uni-hong-kong** : Yijie Wu, Sou-Han Chen, Qianyun Zhou, Siyuan Meng, Dong Liang, Fan Xue
+* **HumanTech** : Mahdi Chamseddine, Fabian Kaufmann, Jason Rambach
+
 ---
 ## :checkered_flag: **Challenge** {#challenge}
 The workshop will host the 3rd International Scan-to-BIM challenge. The challenge will include the following tasks:
