@@ -132,15 +132,15 @@ Congratulations to the challenge winners!
 
 - 2D Floorplan Reconstruction : 
     - **1st** : Tsinghua-CBIMS 
-    - **2nd** : yijiewu-uni-hong-kong
+    - **2nd** : HKU-iLab
 - 3D Building Model Reconstruction : 
-    - **1st** : yijiewu-uni-hong-kong
+    - **1st** : HKU-iLab
     - **2nd** : Tsinghua-CBIMS
     - **3rd** : HumanTech
 
 ### **Teams**
 * **Tsinghua-CBIMS** : Chen PENG, Ziyi KE, Zijian SUN, Yudong LIU, Xinyi DU, Chao DENG, Ge GAO, Ming GU
-* **yijiewu-uni-hong-kong** : Yijie Wu, Sou-Han Chen, Qianyun Zhou, Siyuan Meng, Dong Liang, Fan Xue
+* **HKU-iLab** : Yijie Wu, Sou-Han Chen, Qianyun Zhou, Siyuan Meng, Dong Liang, Fan Xue
 * **HumanTech** : Mahdi Chamseddine, Fabian Kaufmann, Jason Rambach
 
 ---
