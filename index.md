@@ -6,7 +6,10 @@ description: CV4AEC @ CVPR 2023
 
 :wave: Welcome to the **3<sup>rd</sup> Workshop and Challenge on
 Computer Vision In The Built Environment For The Design, Construction and Operation of Buildings** organized at :wave: [<img class="rounded-rect" src="assets/imgs/cvpr2023.svg" width="400px" alt="cvpr2023"/>](https://cvpr2023.thecvf.com/) 
-{: .text-center}
+{: .text-center} 
+
+<p style="text-align: center;"> Join us <a href="https://us06web.zoom.us/j/89171012206?pwd=SmdpQ213cllXWTZKTTdmWlArSnA4Zz09">Here</a> <strong>Today, June 18 2023</strong> from 
+    <strong>09:00 AM - 06:00PM PDT</strong> </p>
 
 Building on the success of the previous two workshops, the 3rd Workshop on Computer Vision in the Built Environment continues on connecting the domains of Architecture, Engineering, and Construction (AEC) with that of Computer Vision by establishing a common ground of interaction and identify shared research interests. Specifically, this workshop focuses on the as-is semantic status of built environments and the changes that take place within them over time. These topics will be presented from the dual lens of Computer Vision and AEC-FM, highlighting the limitations and bottlenecks related to developing applications for this specific domain. The objective is for attendees to learn more about AEC-FM and the variety of real-world problems that, if solved, could have a tangible impact on this multi trillion dollar industry as well as the overall quality of life across the globe.
 
