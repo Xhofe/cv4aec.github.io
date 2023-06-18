@@ -296,7 +296,7 @@ Challenge winners will be determined based on the **pointcloud-based F-Score** p
     <a href="https://antonskoltech.github.io/">
     <img class="img-author" src="assets/imgs/authors/cvpr2023/antonegorov.jpeg" alt="Anton Egorov"/></a>
     <b><br><a href="https://antonskoltech.github.io/">Anton Egorov</a>
-    <br>Research Assistance <br> Oregon State </b>
+    <br>Research Assistant <br> Oregon State </b>
 </figure>
 
 </div>
