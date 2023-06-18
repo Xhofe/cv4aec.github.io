@@ -39,7 +39,7 @@ To further establish connections between the two domains and identify what we ca
 
 ## :calendar: **Schedule** {#schedule}
 
-The workshop will take place on **18 June 2023** from **08:30 - 18:00 PDT** at **CVPR (Hall East 7)**.
+The workshop will take place on **18 June 2023** from **09:00 - 18:00 PDT** at **CVPR (Hall East 7)**.
 > **NOTE**: Times are shown in **Pacific Daylight Time**. Please take this into account if joining the workshop virtually.
 
 | Time (PDT)    | Duration | Event                                                                  |
@@ -296,7 +296,7 @@ Challenge winners will be determined based on the **pointcloud-based F-Score** p
     <a href="https://antonskoltech.github.io/">
     <img class="img-author" src="assets/imgs/authors/cvpr2023/antonegorov.jpeg" alt="Anton Egorov"/></a>
     <b><br><a href="https://antonskoltech.github.io/">Anton Egorov</a>
-    <br>Research Assistance <br> Oregon State </b>
+    <br>Research Assistant <br> Oregon State </b>
 </figure>
 
 </div>
