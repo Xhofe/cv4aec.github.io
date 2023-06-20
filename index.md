@@ -8,9 +8,6 @@ description: CV4AEC @ CVPR 2023
 Computer Vision In The Built Environment For The Design, Construction and Operation of Buildings** organized at :wave: [<img class="rounded-rect" src="assets/imgs/cvpr2023.svg" width="400px" alt="cvpr2023"/>](https://cvpr2023.thecvf.com/) 
 {: .text-center} 
 
-<p style="text-align: center;"> Join us <a href="https://us06web.zoom.us/j/89171012206?pwd=SmdpQ213cllXWTZKTTdmWlArSnA4Zz09">Here</a> <strong>Today, June 18 2023</strong> from 
-    <strong>09:00 AM - 06:00PM PDT</strong> </p>
-
 Building on the success of the previous two workshops, the 3rd Workshop on Computer Vision in the Built Environment continues on connecting the domains of Architecture, Engineering, and Construction (AEC) with that of Computer Vision by establishing a common ground of interaction and identify shared research interests. Specifically, this workshop focuses on the as-is semantic status of built environments and the changes that take place within them over time. These topics will be presented from the dual lens of Computer Vision and AEC-FM, highlighting the limitations and bottlenecks related to developing applications for this specific domain. The objective is for attendees to learn more about AEC-FM and the variety of real-world problems that, if solved, could have a tangible impact on this multi trillion dollar industry as well as the overall quality of life across the globe.
 
 The workshop will begin by establishing ways to capture the as-is status of a space with expert speakers from both the AEC and Computer Vision domains. Attendees will be then introduced to the type of information required for the spatiotemporal analysis of our built environment in AEC, with a focus on effective management, safety, and the role of users in this process. Following that, the topic of scene understanding from 3D and 4D reconstructions will be presented. Finally, to close the loop from understanding real-world built environments to designing built environments better and faster, the topic of scene synthesis at a geometric and semantic level will be presented. The importance of closing the loop for the AEC industry is paramount, especially when considering the design paradox. Architects are designing living spaces without any feedback from their previous designs. Learning to design using data from spaces that are already occupied and in-use, can provide designers with insights on what makes spaces appropriate for supporting the quality of life of the users.
@@ -177,38 +174,6 @@ The training data consists of 18 floors from 10 buildings. For each model, there
 
 ## :question: **Questions** {#questions}
 Contact the organisers at **[cv4aec.3d@gmail.com](mailto:cv4aec.3d@gmail.com)**
- 
-
-
-
-
-<!-- **Teams submitting to the challenge will also be required to submit a description of their method.
-As part of the WACV Proceedings, we will publish a paper summarizing the results of the challenge, including a description of each method.
-All challenge participants surpassing the performance of the Garg baseline [13.7211] (by jspenmar) will be added as authors in this paper.
-Top performers will additionally be invited to present their method <a href="#schedule" target="_self">at the workshop</a>.
-This presentation can be either in-person or virtually.**
-
-**[[GitHub](https://github.com/jspenmar/monodepth_benchmark)] --- [[Challenge](https://codalab.lisn.upsaclay.fr/competitions/7811)] --- [[Paper](https://arxiv.org/abs/2208.01489)]**
-{: .text-center}
-
-The challenge focuses on evaluating novel MDE techniques on the **SYNS-Patches** dataset proposed in [**this benchmark**](https://arxiv.org/abs/2208.01489).
-This dataset provides a challenging variety of urban and natural scenes, including forests, agricultural settings, residential streets, industrial estates, lecture theatres, offices and more.
-Furthermore, the high-quality dense ground-truth LiDAR allows for the computation of more informative evaluation metrics, such as those focused on [**depth discontinuities**](https://arxiv.org/abs/1805.01328v1).
-
-
-
-The challenge is hosted on [**CodaLab**](https://codalab.lisn.upsaclay.fr/competitions/7811). 
-We have provided a [**GitHub repository**](https://github.com/jspenmar/monodepth_benchmark) containing training and evaluation code for multiple recent SotA approaches to MDE.
-These will serve as a competitive baseline for the challenge and as a starting point for participants.
-The challenge leaderboards use the withheld validation and test sets for **SYNS-Patches**.
-We additionally encourage evaluation on the public [**Kitti Eigen-Benchmark**](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction) dataset.
-
-Submissions will be evaluated on a variety of metrics:
-1. [**Pointcloud reconstruction**](https://arxiv.org/abs/2203.08122): F-Score
-2. [**Image-based depth**](https://arxiv.org/abs/1708.06500): MAE, RMSE, AbsRel
-3. [**Depth discontinuities**](https://arxiv.org/abs/1805.01328v1): F-Score, Accuracy, Completeness
-
-Challenge winners will be determined based on the **pointcloud-based F-Score** performance. -->
 
 ---
 # **Organizers** {#organizers}
