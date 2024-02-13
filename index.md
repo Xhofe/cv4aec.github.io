@@ -17,6 +17,8 @@ To further establish connections between the two domains and identify what we ca
 ---
 
 ## :newspaper: **News** {#news}
+- **13 Feb 2024 ---** :loudspeaker: We are accepting paper submissions this year! Look at Important Dates and Call For Short Papers.
+- **13 Feb  2024 ---** :loudspeaker: Tentative schedule and dates released.
 - **26 Jan 2024 ---** :loudspeaker: **Catherine De Wolf** and **Francis Engelmann** confirmed as keynote speaker.
 - **26 Jan 2024 ---** :loudspeaker: **Derek Lichti** and **Yuanbo (Amber) Xiangli** confirmed as keynote speaker.
 - **26 Jan 2024 ---** :tada: Website is live!
@@ -25,12 +27,43 @@ To further establish connections between the two domains and identify what we ca
 ---
 
 ## :hourglass_flowing_sand: **Important Dates** {#dates}
-> TBA!
+> **NOTE**: The submission/release times are **11:59:59 UTC** on the specified date.
+
+<strong><u>Short Paper Submission</u></strong>
+- **1 Apr 2024 ---** Paper submission deadline
+- **3 Apr 2024 ---** Papers distributed to reviewers
+- **18 Apr 2024 ---** Review submission deadline
+- **25 Apr 2024 ---** Notification to Authors
+
+<strong><u>Challenge</u></strong>
+- **12 Mar 2024 ---** Training + Validation + Testing data available for 2D 
+- **14 Mar 2024 ---** Training + Testing data available for 3D
+- **18 Mar 2024 ---** Evaluation server **open** to evaluate test submissions
+- **25 May 2024 ---** Challenge Submission Deadline
+- **01 Jun 2024 ---** Notification To Challenge Participants
+- **18 Jun 2024 ---** CV4AEC Workshop @ CVPR 2024
 
 ---
 
 ## :calendar: **Schedule** {#schedule}
-> TBA!
+The workshop will take place on **18 June 2023** from **09:00 - 17:00 PDT**.
+> **NOTE**: Times are shown in **Pacific Daylight Time**. Please take this into account if joining the workshop virtually.
+
+| Time (PDT)    | Duration | Event                                                                  |
+|---------------|----------|------------------------------------------------------------------------|
+| 09:00 - 09:30 | 30 mins  | Welcome & Introduction                                                 |
+| 09:30 - 10:00 | 30 mins  | Keynote Speaker #1                                                     |
+| 10:00 - 10:30 | 30 mins  | Keynote Speaker #2                                                     |
+| 10:30 - 11:00 | 30 mins  | Keynote Speaker #3                                                     |
+| 11:00 - 11:15 | 30 mins  | _Coffee Break_                                                         |
+| 11:15 - 11:45 | 30 mins  | Keynote Speaker #4                                                     |
+| 11:45 - 12:45 | 60 mins  | Oral Session                                                           |
+| 12:45 - 14:15 | 90 mins  | Poster Session & _Lunch Break_                                         | 
+| 14:15 - 14:45 | 30 mins  | Challenge Winner Presentations and Awards                              |
+| 14:45 - 15:15 | 30 mins  | Keynote Speaker #5                                                     |
+| 15:15 - 15:45 | 30 mins  | Keynote Speaker #6                                                     |
+| 15:45 - 16:45 | 60 mins  | _Panel Discussion_                                                     |
+| 16:45 - 17:00 | 15 mins  | _Concluding Remarks_                                                   |
 
 ---
 
@@ -82,14 +115,42 @@ is a postdoc scholar at Cornell University, working with Prof. Noah Snavely. Pri
 [**Derek Lichti**]("https://www.geo-week.com/advisor/derek-lichti/") 
 is a Professor of Civil Engineering and Computer Science & Technology. Derek Lichti received his Bachelor’s degree in Survey Engineering from Toronto Metropolitan University in 1993 and MSc and PhD degrees in Geomatics Engineering from the University of Calgary in 1996 and 1999, respectively. He is currently Professor in the Department of Geomatics Engineering at the University of Calgary, which he joined in 2008 and served (2013-2018) as Department Head. He is currently ISPRS Congress Director and served (2013-2020) as Editor-in-Chief of the ISPRS Journal of Photogrammetry and Remote Sensing. His research program focuses on imaging metrology: precision 3D reality capture from imaging sensors, principally terrestrial laser scanners and digital cameras. It touches a wide range of applications including the documentation of at-risk cultural heritage sites, as-built modelling of industrial sites, wear and damage assessment in structures and industrial machinery, and dimensional control.
 
+## :paperclip: **Call for Short Papers** {#papers}
+This year we are inviting as part of the workshop the submission of short papers, which will not appear in the conference proceedings. Accepted papers will be presented in an oral session and will also have a spot in the poster session. 
+
+Short papers range from 3 to 4 pages without references. Submissions should otherwise follow the CVPR 2024 Author Kit provided by the main conference: https://github.com/cvpr-org/author-kit/releases. Papers that are not properly anonymized, or do not use the template, or have more than four pages (excluding references) will be considered for rejection without review.
+
+Submissions should:
+- Introduce the topic and literature review, discussion on methodology, preliminary results.
+- Motivate and place the topic in relation to the built environment and its specific application, including a comparison to current AEC practice
+- Include a short discussion on considerations of practice, ethics, and organizations, as applicable.
+
+<strong> Topics </strong>: Any topic that can be categorized as Computer Vision applications In The Built Environment For The Design, Construction and Operation of Buildings.
+
+Including but not limited to:
+- Generative design
+- Floorplan reconstruction
+- Indoor layout synthesis
+- Activity recognition (e.g., occupants in a building, workers in a construction site)
+- Semantic 3D understanding (e.g., for renovation or construction)
+- 3D reconstruction (e.g., for renovation or construction)
+- Material understanding
+- Object/Scene localization
+- Scene completion
+- Change detection
+- And more
+
+---
+
+## :checkered_flag: **Challenge** {#challenge}
+> TBA!
+
 ---
 
 ## :trophy: **Challenge Winners** {#winners}
 > TBA!
 
 ---
-## :checkered_flag: **Challenge** {#challenge}
-> TBA!
 
 ## :question: **Questions** {#questions}
 Contact the organisers at **[cv4aec.3d@gmail.com](mailto:cv4aec.3d@gmail.com)**
