@@ -118,7 +118,7 @@ is a Professor of Civil Engineering and Computer Science & Technology. Derek Lic
 ## :paperclip: **Call for Short Papers** {#papers}
 This year we are inviting as part of the workshop the submission of short papers, which will not appear in the conference proceedings. Accepted papers will be presented in an oral session and will also have a spot in the poster session. 
 
-Short papers range from 3 to 4 pages without references. Submissions should otherwise follow the CVPR 2024 Author Kit provided by the main conference: https://github.com/cvpr-org/author-kit/releases. Papers that are not properly anonymized, or do not use the template, or have more than four pages (excluding references) will be considered for rejection without review.
+Short papers range from 3 to 4 pages without references. Submissions should otherwise follow the CVPR 2024 Author Kit provided by the main conference: [CVPR 2024 Auhtor Kit](https://github.com/cvpr-org/author-kit/releases). Papers that are not properly anonymized, or do not use the template, or have more than four pages (excluding references) will be considered for rejection without review.
 
 Submissions should:
 - Introduce the topic and literature review, discussion on methodology, preliminary results.
