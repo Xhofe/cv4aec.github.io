@@ -143,7 +143,32 @@ Including but not limited to:
 ---
 
 ## :checkered_flag: **Challenge** {#challenge}
-> TBA!
+The workshop will host the 3rd International Scan-to-BIM challenge. The challenge will include the following tasks:
+
+I. 2D Floorplan Reconstruction \
+II. 3D Building Model Reconstruction
+
+### 2D Floor Plan Reconstruction
+
+The 2D Floorplan Reconstruction challenge contains a total of 31 buildings with multiple floors each and dozens of rooms on each floor. Of which, 20 buildings are designated as the training set, with a total of 49 point clouds. The validation and testing sets contain 5.5 buildings with 21 point clouds each. For each model, there is an aligned point cloud in LAZ format. For the training and validation sets, a corresponding floorplan aligned with the coordinate system of the point cloud is also provided. The 2D challenge will be released soon. We have provided a **[Github repository](https://github.com/cv4aec/2d-floorplan-eval)** containing the evaluation code and metrics for floorplan reconstruction. The submission should be made in the same JSON format as in the provided ground truth. We include metrics to evaluate the reconstruction of the walls, doors, and columns, as well as floor area in 2D : 
+
+1. **Geometric Metrics** \
+    a. _IoU_ of each room (a room is defined as a completely separated area with walls and doors). \
+    b. _Accuracy of endpoints_ : Precision/Recall at 3 different thresholds: 5cm, 10cm and 20cm, as well as the F-measure at each threshold will be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match. \
+    c. _Orientation_ For each matched line between the ground truth, we will compute the cosine similarity metric between them as the normalized dot product. If a line is not matched with ground truth, the cosine metric will be zero. Finally, the metric will be averaged over all the ground truth lines.
+
+2. **Topological Metrics** \
+    a. _[Warping error](https://ieeexplore.ieee.org/document/5539950)_ : The warping error will first warp the predicted floorplan to the ground truth with a homotopic deformation, and then compute the pixels that cannot match after the deformation. \
+    b. **_Betti number error_** : The Betti number error will compare the Betti numbers between the prediction and the ground truth and output the absolute value of the difference.
+
+### 3D Building Model Reconstruction
+
+The training data consists of 18 floors from 10 buildings. For each model, there is an aligned point cloud in LAZ format. The 3D building coordinates for walls, columns and doors are presented in 3 separate JSON files. We focus on the reconstruction of walls, columns, and doors. The 3D challenge will be released soon. We have provided a **[Github repository](https://github.com/cv4aec/3d-matching-eval)** containing the evaluation code and metrics for building model reconstruction. The submission should be made in the same JSON format as in the provided ground truth. We evaluate the submissions on a variety of metrics : 
+
+1. **3D IoU** of the 3D bounding box of each wall
+2. **Accuracy of the endpoints** : Precision/Recall at 3 different thresholds: 5cm, 10cm and 20cm, as well as F-measure will be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match. We evaluate per each of the three semantic types (i.e., wall, column, door).
+
+> We would like to note that ALL the submissions **need to be constructed automatically** . Manual reconstructions are against the spirit of this challenge and will not be allowed.
 
 ---
 
@@ -161,7 +186,7 @@ Contact the organisers at **[cv4aec.3d@gmail.com](mailto:cv4aec.3d@gmail.com)**
 <div class="container">
 <figure>
     <a href="https://ir0.github.io/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2023/iroarmeni.jpg" alt="Iro Armeni"/></a>
+    <img class="img-author" src="assets/imgs/authors/cvpr2023/iroarmeni.jpeg" alt="Iro Armeni"/></a>
     <b><br><a href="https://ir0.github.io/">Iro Armeni</a>
     <br>Professor, CEE  <br> Stanford</b>
 </figure>
