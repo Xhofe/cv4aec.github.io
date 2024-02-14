@@ -72,17 +72,17 @@ The workshop will take place on **18 June 2023** from **09:00 - 17:00 PDT**.
 <div class="container">
 
 <figure>
-    <a href="https://francisengelmann.github.io/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2024/francisengelmann.jpeg" alt="Francis Engelmann" > </a>
-    <b><br><a href="https://francisengelmann.github.io/">Francis Engelmann</a>
-    <br>PostDoc, CS <br>ETH Zurich</b>
+    <a href="https://cee.mit.edu/people_individual/caitlin-mueller/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/caitlinmueller.jpeg" alt="Caitlin Mueller"/></a>
+    <b><br><a href="https://cee.mit.edu/people_individual/caitlin-mueller/">Caitlin Mueller</a>
+    <br>Professor, CEE<br>MIT</b>
 </figure>
 
 <figure>
     <a href="https://www.catherinedewolf.com/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/catherinedewolf.jpeg" alt="Catherine De Wolf"/></a>
     <b><br><a href="https://www.catherinedewolf.com/">Catherine De Wolf</a>
-    <br>Professor, Civil <br>ETH Zurich</b>
+    <br>Professor, CEE <br>ETH Zurich</b>
 </figure>
 
 <figure>
@@ -90,6 +90,13 @@ The workshop will take place on **18 June 2023** from **09:00 - 17:00 PDT**.
     <img class="img-author" src="assets/imgs/authors/cvpr2024/dereklichti.jpeg" alt="Derek Lichti"/></a>
     <b><br><a href="https://www.geo-week.com/advisor/derek-lichti/">Derek Lichti</a>
     <br>Professor, Geomatics <br>University of Calgary</b>
+</figure>
+
+<figure>
+    <a href="https://francisengelmann.github.io/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/francisengelmann.jpeg" alt="Francis Engelmann" > </a>
+    <b><br><a href="https://francisengelmann.github.io/">Francis Engelmann</a>
+    <br>PostDoc, CS <br>ETH Zurich</b>
 </figure>
 
 <figure>
@@ -101,19 +108,25 @@ The workshop will take place on **18 June 2023** from **09:00 - 17:00 PDT**.
 
 </div>
 
+[**Caitlin Mueller**](https://cee.mit.edu/people_individual/caitlin-mueller/)  a researcher, designer, and educator working at the interface of architecture and structural engineering. She is currently an Assistant Professor in the Building Technology Program, where she leads the Digital Structures research group. As a researcher, Mueller focuses on developing new computational methods and tools for synthesizing architectural and structural intentions in early-stage design. She also works in the field of digital fabrication, with a focus on linking high structural performance with new methods of architectural making. In addition to her digital work, she conducts research on the nature of collaboration between architects and engineers from a historical perspective. Mueller also aims for interdisciplinary learning and integration in her teaching efforts, which include subjects in structural design and computational methods.
+
+[**Catherine De Wolf**](https://www.catherinedewolf.com/)
+is assistant professor and director of the Chair of Circular Engineering for Architecture (CEA) at ETH Zurich. Her work explores digital innovations such as reality capture and AI to advance the built environment towards a circular economy. She has a dual background in civil engineering and architecture and  completed her PhD at MIT. She is on the steering committee of the Centre for Augmented Computational Design in Architecture, Engineering and Construction (Design++). Catherine is also a faculty at the AI Center, EMPA, the Future Cities Lab, and the National Centre of Competence in Research on Digital Fabrication (DFAB). Additionally, Catherine provides regular consultation on environmental impact assessments for both government entities like the European Commission and engineering design offices such as Arup. Throughout her career, she has gained international experience working at institutions like the University of Cambridge, TU Delft, EPFL, Nanjing University, Kuwait University, and the African Urban Metabolism Network. Her contributions to these projects were often made possible by securing multiple fellowships, including the Swiss Excellence, WBI World Excellence, and Marie Sklodowska-Curie Postdoctoral Fellowships. 
+
+[**Derek Lichti**]("https://www.geo-week.com/advisor/derek-lichti/") 
+is a Professor of Civil Engineering and Computer Science & Technology. Derek Lichti received his Bachelor’s degree in Survey Engineering from Toronto Metropolitan University in 1993 and MSc and PhD degrees in Geomatics Engineering from the University of Calgary in 1996 and 1999, respectively. He is currently Professor in the Department of Geomatics Engineering at the University of Calgary, which he joined in 2008 and served (2013-2018) as Department Head. He is currently ISPRS Congress Director and served (2013-2020) as Editor-in-Chief of the ISPRS Journal of Photogrammetry and Remote Sensing. His research program focuses on imaging metrology: precision 3D reality capture from imaging sensors, principally terrestrial laser scanners and digital cameras. It touches a wide range of applications including the documentation of at-risk cultural heritage sites, as-built modelling of industrial sites, wear and damage assessment in structures and industrial machinery, and dimensional control.
+
 [**Francis Engelman**](https://francisengelmann.github.io/)
 is a PostDoc with Prof. Marc Pollefeys at ETH Zurich, and a visiting researcher at Google with Federico Tombari. His research interest lie at the intersection of computer vision and deep learning towards open-vocabulary 3D scene understanding with foundation models.
 Francis is a Fellow of the ETH AI Center, the ELLIS Society, and the recipient of the ETHZ Career Seed Award. 
 
-[**Catherine De Wolf**](https://www.catherinedewolf.com/)
-is assistant professor and director of the Chair of Circular Engineering for Architecture (CEA) at ETH Zurich. Her work explores digital innovations such as reality capture and AI to advance the built environment towards a circular economy. She has a dual background in civil engineering and architecture and  completed her PhD at MIT. She is on the steering committee of the Centre for Augmented Computational Design in Architecture, Engineering and Construction (Design++). Catherine is also a faculty at the AI Center, EMPA, the Future Cities Lab, and the National Centre of Competence in Research on Digital Fabrication (DFAB). Additionally, Catherine provides regular consultation on environmental impact assessments for both government entities like the European Commission and engineering design offices such as Arup. Throughout her career, she has gained international experience working at institutions like the University of Cambridge, TU Delft, EPFL, Nanjing University, Kuwait University, and the African Urban Metabolism Network. Her contributions to these projects were often made possible by securing multiple fellowships, including the Swiss Excellence, WBI World Excellence, and Marie Sklodowska-Curie Postdoctoral Fellowships. 
+
 
 
 [**Yuanbo Xiangli**](https://kam1107.github.io/)
 is a postdoc scholar at Cornell University, working with Prof. Noah Snavely. Prior to this, she did her Ph.D at Multimedia Lab, the Chinese University of Hong Kong, supervised by Prof. Dahua Lin. She received her Master degree from University of Oxford and Diploma from the University of Nottingham in Computer Science. Her research interests lie in 3D computer vision and generative modelling. She has been working on photorealistic and efficient large-scale 3D indoor/outdoor scenes rendering, manipulation and generation, leveraging diverse 2D/3D data sources, geographic and architectural information. 
 
-[**Derek Lichti**]("https://www.geo-week.com/advisor/derek-lichti/") 
-is a Professor of Civil Engineering and Computer Science & Technology. Derek Lichti received his Bachelor’s degree in Survey Engineering from Toronto Metropolitan University in 1993 and MSc and PhD degrees in Geomatics Engineering from the University of Calgary in 1996 and 1999, respectively. He is currently Professor in the Department of Geomatics Engineering at the University of Calgary, which he joined in 2008 and served (2013-2018) as Department Head. He is currently ISPRS Congress Director and served (2013-2020) as Editor-in-Chief of the ISPRS Journal of Photogrammetry and Remote Sensing. His research program focuses on imaging metrology: precision 3D reality capture from imaging sensors, principally terrestrial laser scanners and digital cameras. It touches a wide range of applications including the documentation of at-risk cultural heritage sites, as-built modelling of industrial sites, wear and damage assessment in structures and industrial machinery, and dimensional control.
+
 
 ## :paperclip: **Call for Short Papers** {#papers}
 This year we are inviting as part of the workshop the submission of short papers, which will not appear in the conference proceedings. Accepted papers will be presented in an oral session and will also have a spot in the poster session. 
