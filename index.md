@@ -17,7 +17,7 @@ To further establish connections between the two domains and identify what we ca
 ---
 
 ## :newspaper: **News** {#news}
-- **13 Feb 2024 ---** :loudspeaker: We are accepting paper submissions this year! Look at Important Dates and Call For Short Papers.
+- **14 Feb 2024 ---** :loudspeaker: We are accepting paper submissions this year! Look at Important Dates and Call For Short Papers, [CMT Submission Link](https://cmt3.research.microsoft.com/CV4AEC2024/).
 - **13 Feb  2024 ---** :loudspeaker: Tentative schedule and dates released.
 - **26 Jan 2024 ---** :loudspeaker: **Catherine De Wolf** and **Francis Engelmann** confirmed as keynote speaker.
 - **26 Jan 2024 ---** :loudspeaker: **Derek Lichti** and **Yuanbo (Amber) Xiangli** confirmed as keynote speaker.
@@ -119,6 +119,8 @@ is a Professor of Civil Engineering and Computer Science & Technology. Derek Lic
 This year we are inviting as part of the workshop the submission of short papers, which will not appear in the conference proceedings. Accepted papers will be presented in an oral session and will also have a spot in the poster session. 
 
 Short papers range from 3 to 4 pages without references. Submissions should otherwise follow the CVPR 2024 Author Kit provided by the main conference: [CVPR 2024 Auhtor Kit](https://github.com/cvpr-org/author-kit/releases). Papers that are not properly anonymized, or do not use the template, or have more than four pages (excluding references) will be considered for rejection without review.
+
+Link to the submission system : [CMT](https://cmt3.research.microsoft.com/CV4AEC2024/)
 
 Submissions should:
 - Introduce the topic and literature review, discussion on methodology, preliminary results.
