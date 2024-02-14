@@ -186,7 +186,7 @@ Contact the organisers at **[cv4aec.3d@gmail.com](mailto:cv4aec.3d@gmail.com)**
 <div class="container">
 <figure>
     <a href="https://ir0.github.io/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2023/iroarmeni.jpeg" alt="Iro Armeni"/></a>
+    <img class="img-author" src="assets/imgs/authors/cvpr2023/iroarmeni.jpg" alt="Iro Armeni"/></a>
     <b><br><a href="https://ir0.github.io/">Iro Armeni</a>
     <br>Professor, CEE  <br> Stanford</b>
 </figure>
