@@ -253,7 +253,7 @@ Contact the organisers at **[cv4aec.3d@gmail.com](mailto:cv4aec.3d@gmail.com)**
 <div class="container">
 <figure>
     <a href="https://sayandebsarkar.com/">
-    <img class="img-author" src="assets/imgs/authors/cvpr2023/sayandebsarkar.png" alt="Sayan Deb Sarkar"/></a>
+    <img class="img-author" src="assets/imgs/authors/cvpr2023/sayandebsarkar.jpg" alt="Sayan Deb Sarkar"/></a>
     <b><br><a href="https://sayandebsarkar.com/">Sayan Deb Sarkar</a>
     <br>MSc CS <br> ETHZ</b>
 </figure>
