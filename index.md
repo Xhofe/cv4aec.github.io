@@ -261,6 +261,14 @@ Contact the organisers at **[cv4aec.3d@gmail.com](mailto:cv4aec.3d@gmail.com)**
     <br>Assistant Professor, CEE <br> Oregon State</b>
 </figure>
 
+<figure>
+    <a href="https://www.linkedin.com/in/heidar-rastiveis/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/heidarrastiveis.jpg" alt="Heidar Rastiveis"/></a>
+    <b><br><a href="https://www.linkedin.com/in/heidar-rastiveis/">Heidar Rastiveis</a>
+    <br>Assistant Professor (Senior Research), CEE <br> Oregon State</b>
+</figure>
+
+
 </div>
 
 ## :grimacing: **Student Organizers** {#student-organizers}
@@ -277,6 +285,13 @@ Contact the organisers at **[cv4aec.3d@gmail.com](mailto:cv4aec.3d@gmail.com)**
     <img class="img-author" src="assets/imgs/authors/cvpr2023/antonegorov.jpeg" alt="Anton Egorov"/></a>
     <b><br><a href="https://antonskoltech.github.io/">Anton Egorov</a>
     <br>Research Assistant <br> Oregon State </b>
+</figure>
+
+<figure>
+    <a href="https://www.linkedin.com/in/mohsen-arjmand-591388b9/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/mohsenarjmand.jpg" alt="Mohsen Arjmand"/></a>
+    <b><br><a href="https://www.linkedin.com/in/mohsen-arjmand-591388b9/">Mohsen Arjmand</a>
+    <br>PhD, CEE <br> Oregon State</b>
 </figure>
 
 </div>
