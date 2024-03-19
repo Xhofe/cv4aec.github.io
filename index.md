@@ -37,11 +37,11 @@ To further establish connections between the two domains and identify what we ca
 - **25 Apr 2024 ---** Notification to Authors
 
 <strong><u>Challenge</u></strong>
-- **12 Mar 2024 ---** Training + Validation + Testing data available for 2D 
-- **14 Mar 2024 ---** Training + Testing data available for 3D
-- **18 Mar 2024 ---** Evaluation server **open** to evaluate test submissions
-- **25 May 2024 ---** Challenge Submission Deadline
-- **01 Jun 2024 ---** Notification To Challenge Participants
+- **12 Apr 2024 ---** Training + Validation + Testing data available for 2D 
+- **14 Apr 2024 ---** Training + Testing data available for 3D
+- **18 Apr 2024 ---** Evaluation server **open** to evaluate test submissions
+- **01 Jun 2024 ---** Challenge Submission Deadline
+- **07 Jun 2024 ---** Notification To Challenge Participants
 - **18 Jun 2024 ---** CV4AEC Workshop @ CVPR 2024
 
 ---
