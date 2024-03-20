@@ -17,6 +17,7 @@ To further establish connections between the two domains and identify what we ca
 ---
 
 ## :newspaper: **News** {#news}
+- **19 Mar 2024 ---** :loudspeaker: **Afshin Dehghan** confirmed as keynote speaker.
 - **14 Feb 2024 ---** :loudspeaker: We are accepting paper submissions this year! Look at Important Dates and Call For Short Papers, [CMT Submission Link](https://cmt3.research.microsoft.com/CV4AEC2024/).
 - **14 Feb 2024 ---** :loudspeaker: **Caitlin Mueller** confirmed as keynote speaker.
 - **13 Feb  2024 ---** :loudspeaker: Tentative schedule and dates released.
@@ -73,6 +74,13 @@ The workshop will take place on **18 June 2023** from **09:00 - 17:00 PDT**.
 <div class="container">
 
 <figure>
+    <a href="https://www.afshindehghan.com/">
+    <img class="img-author" src="assets/imgs/authors/cvpr2024/afshindehghan.jpg" alt="Afshin Dehghan"/></a>
+    <b><br><a href="https://www.afshindehghan.com/">Afshin Dehghan</a>
+    <br>Machine Learning Manager <br>Apple</b>
+</figure>
+
+<figure>
     <a href="https://www.catherinedewolf.com/">
     <img class="img-author" src="assets/imgs/authors/cvpr2024/catherinedewolf.jpeg" alt="Catherine De Wolf"/></a>
     <b><br><a href="https://www.catherinedewolf.com/">Catherine De Wolf</a>
@@ -108,6 +116,9 @@ The workshop will take place on **18 June 2023** from **09:00 - 17:00 PDT**.
 </figure>
 
 </div>
+
+[**Afshin Dehghan**](https://www.afshindehghan.com/)
+is a Machine Learning Manage at Apple Inc. His team is focused on an intersection between state of the art research and products. He received his PhD in computer science in 2016 under Dr. Mubarak Shah at the Center for Research in Computer Vision. 
 
 
 [**Catherine De Wolf**](https://www.catherinedewolf.com/)
