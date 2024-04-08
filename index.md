@@ -14,6 +14,8 @@ The workshop will begin by establishing ways to capture the as-is status of a sp
 
 To further establish connections between the two domains and identify what we can do right now and what is still hard to solve, we will host the **4th International Scan-to-BIM competition** targeted on acquiring the semantic as-is status of buildings given their 3D point clouds. Specifically, we will focus on the tasks of floorplan reconstruction and 3D building model reconstruction and present appropriate interdisciplinary metrics for solving them. The past two years we observed that a large gap remains before these problems can be considered solved and actually meet the needs of practitioners. We regard this workshop as the ideal environment for understanding the challenges and steps forward given that it provides convergence between the research and practical communities from multiple disciplines.
 
+The workshop will therefore consist of two parts: invited <a href="#speakers" target="_self">keynote talks</a> and a  <a href="#challenge" target="_self">Scan-to-BIM challenge</a>.
+
 ---
 
 ## :newspaper: **News** {#news}
@@ -168,14 +170,17 @@ Including but not limited to:
 ---
 
 ## :checkered_flag: **Challenge** {#challenge}
-The workshop will host the 3rd International Scan-to-BIM challenge. The challenge will include the following tasks:
+The workshop will host the 4th International Scan-to-BIM challenge. The challenge will include the following tasks:
 
 I. 2D Floorplan Reconstruction \
 II. 3D Building Model Reconstruction
 
+**[[GitHub](https://github.com/GradientSpaces/cv4aec-challenge)] --- [[Challenge](Coming Soon)]**
+{: .text-center}
+
 ### 2D Floor Plan Reconstruction
 
-The 2D Floorplan Reconstruction challenge contains a total of 31 buildings with multiple floors each and dozens of rooms on each floor. Of which, 20 buildings are designated as the training set, with a total of 49 point clouds. The validation and testing sets contain 5.5 buildings with 21 point clouds each. For each model, there is an aligned point cloud in LAZ format. For the training and validation sets, a corresponding floorplan aligned with the coordinate system of the point cloud is also provided. The 2D challenge will be released soon. We have provided a **[Github repository](https://github.com/cv4aec/2d-floorplan-eval)** containing the evaluation code and metrics for floorplan reconstruction. The submission should be made in the same JSON format as in the provided ground truth. We include metrics to evaluate the reconstruction of the walls, doors, and columns, as well as floor area in 2D : 
+The 2D Floorplan Reconstruction challenge contains a total of 31 buildings with multiple floors each and dozens of rooms on each floor. Of which, 20 buildings are designated as the training set, with a total of 49 point clouds. The validation and testing sets contain 5.5 buildings with 21 point clouds each. For each model, there is an aligned point cloud in LAZ format. For the training and validation sets, a corresponding floorplan aligned with the coordinate system of the point cloud is also provided. The challenge data and evaluation code can be found in this **[Github repository](https://github.com/GradientSpaces/cv4aec-challenge)**. The submission should be made in the same JSON format as in the provided ground truth. We include metrics to evaluate the reconstruction of the walls, doors, and columns, as well as floor area in 2D : 
 
 1. **Geometric Metrics** \
     a. _IoU_ of each room (a room is defined as a completely separated area with walls and doors). \
@@ -188,7 +193,7 @@ The 2D Floorplan Reconstruction challenge contains a total of 31 buildings with 
 
 ### 3D Building Model Reconstruction
 
-The training data consists of 18 floors from 10 buildings. For each model, there is an aligned point cloud in LAZ format. The 3D building coordinates for walls, columns and doors are presented in 3 separate JSON files. We focus on the reconstruction of walls, columns, and doors. The 3D challenge will be released soon. We have provided a **[Github repository](https://github.com/cv4aec/3d-matching-eval)** containing the evaluation code and metrics for building model reconstruction. The submission should be made in the same JSON format as in the provided ground truth. We evaluate the submissions on a variety of metrics : 
+The training data consists of 18 floors from 10 buildings. For each model, there is an aligned point cloud in LAZ format. The 3D building coordinates for walls, columns and doors are presented in 3 separate JSON files. We focus on the reconstruction of walls, columns, and doors. The challenge data and evaluation code can be found in this **[Github repository](https://github.com/GradientSpaces/cv4aec-challenge)**. The submission should be made in the same JSON format as in the provided ground truth. We evaluate the submissions on a variety of metrics : 
 
 1. **3D IoU** of the 3D bounding box of each wall
 2. **Accuracy of the endpoints** : Precision/Recall at 3 different thresholds: 5cm, 10cm and 20cm, as well as F-measure will be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match. We evaluate per each of the three semantic types (i.e., wall, column, door).
