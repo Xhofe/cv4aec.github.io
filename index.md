@@ -175,7 +175,7 @@ The workshop will host the 4th International Scan-to-BIM challenge. The challeng
 I. 2D Floorplan Reconstruction \
 II. 3D Building Model Reconstruction
 
-**[[GitHub](https://github.com/GradientSpaces/cv4aec-challenge)] --- [[Challenge](Coming Soon)]**
+**[[GitHub](https://github.com/GradientSpaces/cv4aec-challenge)] --- [Challenge(Coming Soon)]**
 {: .text-center}
 
 ### 2D Floor Plan Reconstruction
