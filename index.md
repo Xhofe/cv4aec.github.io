@@ -41,7 +41,7 @@ The workshop will therefore consist of two parts: invited <a href="#speakers" ta
 
 <strong><u>Challenge</u></strong>
 - **8 Apr 2024 ---** Training + Validation + Testing data available for 2D & 3D
-- **18 Apr 2024 ---** Evaluation server **open** to evaluate test submissions
+- **9 Apr 2024 ---** Evaluation server **open** to evaluate test submissions
 - **01 Jun 2024 ---** Challenge Submission Deadline
 - **07 Jun 2024 ---** Notification To Challenge Participants
 - **18 Jun 2024 ---** CV4AEC Workshop @ CVPR 2024
@@ -174,7 +174,7 @@ The workshop will host the 4th International Scan-to-BIM challenge. The challeng
 I. 2D Floorplan Reconstruction \
 II. 3D Building Model Reconstruction
 
-**[[GitHub](https://github.com/GradientSpaces/cv4aec-challenge)] --- [Challenge(Coming Soon)]**
+**[[GitHub](https://github.com/GradientSpaces/cv4aec-challenge)] --- [[2D Challenge](https://codalab.lisn.upsaclay.fr/competitions/18523)] --- [[3D Challenge](https://codalab.lisn.upsaclay.fr/competitions/18526)]**
 {: .text-center}
 
 ### 2D Floor Plan Reconstruction
