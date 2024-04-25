@@ -19,6 +19,7 @@ The workshop will therefore consist of two parts: invited <a href="#speakers" ta
 ---
 
 ## :newspaper: **News** {#news}
+- **25 Apr 2024 ---** :loudspeaker: Paper decision notification sent to authors.
 - **18 Apr 2024 ---** :loudspeaker: Workshop schedule confirmed.
 - **19 Mar 2024 ---** :loudspeaker: **Afshin Dehghan** confirmed as keynote speaker.
 - **14 Feb 2024 ---** :loudspeaker: We are accepting paper submissions this year! Look at Important Dates and Call For Short Papers, [CMT Submission Link](https://cmt3.research.microsoft.com/CV4AEC2024/).
@@ -27,7 +28,6 @@ The workshop will therefore consist of two parts: invited <a href="#speakers" ta
 - **26 Jan 2024 ---** :loudspeaker: **Catherine De Wolf** and **Francis Engelmann** confirmed as keynote speaker.
 - **26 Jan 2024 ---** :loudspeaker: **Derek Lichti** and **Yuanbo (Amber) Xiangli** confirmed as keynote speaker.
 - **26 Jan 2024 ---** :tada: Website is live!
-
 
 ---
 
@@ -59,7 +59,7 @@ The workshop will take place on **18 June 2023** from **09:00 - 17:00 PDT**.
 | 09:30 - 10:00 | 30 mins  | Derek Lichti                                                           |
 | 10:00 - 10:30 | 30 mins  | Francis Engelmann                                                      |
 | 10:30 - 11:00 | 30 mins  | Catherine De Wolf                                                      |
-| 11:00 - 11:15 | 30 mins  | _Coffee Break_                                                         |
+| 11:00 - 11:15 | 15 mins  | _Coffee Break_                                                         |
 | 11:15 - 11:45 | 30 mins  | Afshin Dehghan                                                         |
 | 11:45 - 12:45 | 60 mins  | Oral Session                                                           |
 | 12:45 - 14:15 | 90 mins  | Poster Session & _Lunch Break_                                         | 
