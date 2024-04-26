@@ -138,47 +138,45 @@ is a Professor of Civil Engineering and Computer Science & Technology. Derek Lic
 is a postdoc scholar at Cornell University, working with Prof. Noah Snavely. Prior to this, she did her Ph.D at Multimedia Lab, the Chinese University of Hong Kong, supervised by Prof. Dahua Lin. She received her Master degree from University of Oxford and Diploma from the University of Nottingham in Computer Science. Her research interests lie in 3D computer vision and generative modelling. She has been working on photorealistic and efficient large-scale 3D indoor/outdoor scenes rendering, manipulation and generation, leveraging diverse 2D/3D data sources, geographic and architectural information. 
 
 
-## :school: *Accepted Papers** {#accepted-papers}
-<details>
-    <summary>1. <strong>Automatic Defurnishing of Indoor Panoramas</strong></summary>
+## :school: **Accepted Papers** {#accepted-papers}
+1. <strong>Automatic Defurnishing of Indoor Panoramas</strong>
     <strong>Mira Slavcheva</strong> (Matterport), David Gausebeck ( Matterport ), Kevin Chen ( Matterport ), David Buchhofer ( Matterport ), Azwad Sabik ( Matterport ), Chen Ma ( Matterport ), Sachal Dhillon ( Matterport ), Olaf Brandt ( Matterport ), Alan Dolhasz (Matterport)
-</details>
-<details>
-    <summary>2. <strong>A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion</strong></summary>
-    <strong>Kailai Sun</strong> (National University of Singapore), Zhou Yang ( BYD company )
-</details>
-<details>
-    <summary>3. <strong>ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds</strong></summary>
-    <strong>Cheung Ka Lung</strong> (The Chinese University of Hong Kong), Xi Chen (The Chinese University of Hong Kong), Ben Chen (Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
-</details>
-<details>
-    <summary>4. <strong>Towards Automating the Retrospective Generation of BIM Models: A Unified Framework for 3D Semantic Reconstruction of the Built Environment</strong></summary>
-    <strong>Cheung Ka Lung</strong> (The Chinese University of Hong Kong), Xi Chen (The Chinese University of Hong Kong), Ben Chen (Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
-</details>
-<details>
-    <summary>5. <strong>Enhancing Polygonal Building Segmentation via Oriented Corners</strong></summary>
-    Mohammad Moein Sheikholeslami (York University), Muhammad Kamran (York University), Andreas Wichmann (Jade University of Applied Sciences), <strong>Gunho Sohn</strong> (York University)
-</details>
-<details>
-    <summary>6. <strong>Window to Wall Ratio Detection using SegFormer</strong></summary>
-    <strong>Zoe De Simone</strong> (MIT), Sayandeep Biswas ( MIT ), Oscar Wu ( MIT ) 
-</details>
-<details>
-    <summary>7. <strong>An Expeditious Spatial Mean Radiant Temperature Mapping Framework using Visual SLAM and Semantic Segmentation</strong></summary>
-    <strong>Wei Liang</strong> (CMU), Yiting Zhang ( CMU ), Ji Zhang (CMU), Erica Cochran Hameen ( CMU )
-</details>
-<details>
-    <summary>8. <strong>Zero-Shot Construction Object Detection through Knowledge-based Feature Integrator</strong></summary>
-    <strong>Maryam Soleymani</strong> (Louisiana State University), Mahdi Bonyani ( Louisiana State University ), Chao Wang ( Louisiana State University ), Hyun-woo Jeon ( Kyung Hee University )
-</details>
-<details>
-    <summary>9. <strong>Real-time Ergonomic Risk Assessment in Construction Sites through Spatiotemporal Graph Convolution Network</strong></summary>
-    Mahdi Bonyani ( Louisiana State University ), <strong>Maryam Soleymani</strong> (Louisiana State University), Chao Wang ( Louisiana State University ), Hyun-woo Jeon ( Kyung Hee University )
-</details>
-<details>
-    <summary>10. <strong>BIM-Module for deep learning-based parametric IFC reconstruction</strong></summary>
-    <strong>Maarten Bassier (KU Leuven)</strong>, Sam De Geyter ( KU Leuven ), Oscar Roman ( Bruno Kessler Foundation), Roberto Battisti (Bruno Kessler Foundation), Heinder De Winter ( KU Leuven ), Gabriele Mazzacca ( Bruno Kessler Foundation), Fabio Remondino (Bruno Kessler Foundation)
-</details>
+
+2. <strong>A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion</strong>
+<strong>Kailai Sun</strong> (National University of Singapore), Zhou Yang ( BYD company )
+
+
+3. <strong>ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds</strong>
+<strong>Cheung Ka Lung</strong> (The Chinese University of Hong Kong), Xi Chen (The Chinese University of Hong Kong), Ben Chen (Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
+
+
+4. <strong>Towards Automating the Retrospective Generation of BIM Models: A Unified Framework for 3D Semantic Reconstruction of the Built Environment</strong>
+<strong>Cheung Ka Lung</strong> (The Chinese University of Hong Kong), Xi Chen (The Chinese University of Hong Kong), Ben Chen (Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
+
+
+5. <strong>Enhancing Polygonal Building Segmentation via Oriented Corners</strong>
+Mohammad Moein Sheikholeslami (York University), Muhammad Kamran (York University), Andreas Wichmann (Jade University of Applied Sciences), <strong>Gunho Sohn</strong> (York University)
+
+
+6. <strong>Window to Wall Ratio Detection using SegFormer</strong>
+<strong>Zoe De Simone</strong> (MIT), Sayandeep Biswas ( MIT ), Oscar Wu ( MIT ) 
+
+
+7. <strong>An Expeditious Spatial Mean Radiant Temperature Mapping Framework using Visual SLAM and Semantic Segmentation</strong>
+<strong>Wei Liang</strong> (CMU), Yiting Zhang ( CMU ), Ji Zhang (CMU), Erica Cochran Hameen ( CMU )
+
+
+8. <strong>Zero-Shot Construction Object Detection through Knowledge-based Feature Integrator</strong>
+<strong>Maryam Soleymani</strong> (Louisiana State University), Mahdi Bonyani ( Louisiana State University ), Chao Wang ( Louisiana State University ), Hyun-woo Jeon ( Kyung Hee University )
+
+
+9. <strong>Real-time Ergonomic Risk Assessment in Construction Sites through Spatiotemporal Graph Convolution Network</strong>
+Mahdi Bonyani ( Louisiana State University ), <strong>Maryam Soleymani</strong> (Louisiana State University), Chao Wang ( Louisiana State University ), Hyun-woo Jeon ( Kyung Hee University )
+
+
+10. <strong>BIM-Module for deep learning-based parametric IFC reconstruction</strong>
+<strong>Maarten Bassier (KU Leuven)</strong>, Sam De Geyter ( KU Leuven ), Oscar Roman ( Bruno Kessler Foundation), Roberto Battisti (Bruno Kessler Foundation), Heinder De Winter ( KU Leuven ), Gabriele Mazzacca ( Bruno Kessler Foundation), Fabio Remondino (Bruno Kessler Foundation)
+
 
 
 
