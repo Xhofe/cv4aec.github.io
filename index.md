@@ -139,42 +139,42 @@ is a postdoc scholar at Cornell University, working with Prof. Noah Snavely. Pri
 
 
 ## :school: **Accepted Papers** {#accepted-papers}
-1. <strong>Automatic Defurnishing of Indoor Panoramas</strong>
+1. <strong>Automatic Defurnishing of Indoor Panoramas</strong> <br>
     <strong>Mira Slavcheva</strong> (Matterport), David Gausebeck ( Matterport ), Kevin Chen ( Matterport ), David Buchhofer ( Matterport ), Azwad Sabik ( Matterport ), Chen Ma ( Matterport ), Sachal Dhillon ( Matterport ), Olaf Brandt ( Matterport ), Alan Dolhasz (Matterport)
 
-2. <strong>A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion</strong>
+2. <strong>A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion</strong> <br>
 <strong>Kailai Sun</strong> (National University of Singapore), Zhou Yang ( BYD company )
 
 
-3. <strong>ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds</strong>
+3. <strong>ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds</strong> <br>
 <strong>Cheung Ka Lung</strong> (The Chinese University of Hong Kong), Xi Chen (The Chinese University of Hong Kong), Ben Chen (Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
 
 
-4. <strong>Towards Automating the Retrospective Generation of BIM Models: A Unified Framework for 3D Semantic Reconstruction of the Built Environment</strong>
+4. <strong>Towards Automating the Retrospective Generation of BIM Models: A Unified Framework for 3D Semantic Reconstruction of the Built Environment</strong> <br>
 <strong>Cheung Ka Lung</strong> (The Chinese University of Hong Kong), Xi Chen (The Chinese University of Hong Kong), Ben Chen (Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
 
 
-5. <strong>Enhancing Polygonal Building Segmentation via Oriented Corners</strong>
+5. <strong>Enhancing Polygonal Building Segmentation via Oriented Corners</strong> <br>
 Mohammad Moein Sheikholeslami (York University), Muhammad Kamran (York University), Andreas Wichmann (Jade University of Applied Sciences), <strong>Gunho Sohn</strong> (York University)
 
 
-6. <strong>Window to Wall Ratio Detection using SegFormer</strong>
+6. <strong>Window to Wall Ratio Detection using SegFormer</strong> <br>
 <strong>Zoe De Simone</strong> (MIT), Sayandeep Biswas ( MIT ), Oscar Wu ( MIT ) 
 
 
-7. <strong>An Expeditious Spatial Mean Radiant Temperature Mapping Framework using Visual SLAM and Semantic Segmentation</strong>
+7. <strong>An Expeditious Spatial Mean Radiant Temperature Mapping Framework using Visual SLAM and Semantic Segmentation</strong> <br>
 <strong>Wei Liang</strong> (CMU), Yiting Zhang ( CMU ), Ji Zhang (CMU), Erica Cochran Hameen ( CMU )
 
 
-8. <strong>Zero-Shot Construction Object Detection through Knowledge-based Feature Integrator</strong>
+8. <strong>Zero-Shot Construction Object Detection through Knowledge-based Feature Integrator</strong> <br>
 <strong>Maryam Soleymani</strong> (Louisiana State University), Mahdi Bonyani ( Louisiana State University ), Chao Wang ( Louisiana State University ), Hyun-woo Jeon ( Kyung Hee University )
 
 
-9. <strong>Real-time Ergonomic Risk Assessment in Construction Sites through Spatiotemporal Graph Convolution Network</strong>
+9. <strong>Real-time Ergonomic Risk Assessment in Construction Sites through Spatiotemporal Graph Convolution Network</strong> <br>
 Mahdi Bonyani ( Louisiana State University ), <strong>Maryam Soleymani</strong> (Louisiana State University), Chao Wang ( Louisiana State University ), Hyun-woo Jeon ( Kyung Hee University )
 
 
-10. <strong>BIM-Module for deep learning-based parametric IFC reconstruction</strong>
+10. <strong>BIM-Module for deep learning-based parametric IFC reconstruction</strong> <br>
 <strong>Maarten Bassier (KU Leuven)</strong>, Sam De Geyter ( KU Leuven ), Oscar Roman ( Bruno Kessler Foundation), Roberto Battisti (Bruno Kessler Foundation), Heinder De Winter ( KU Leuven ), Gabriele Mazzacca ( Bruno Kessler Foundation), Fabio Remondino (Bruno Kessler Foundation)
 
 
