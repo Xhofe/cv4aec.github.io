@@ -19,6 +19,7 @@ The workshop will therefore consist of two parts: invited <a href="#speakers" ta
 ---
 
 ## :newspaper: **News** {#news}
+- **06 May 2024 ---** :loudspeaker: Presentation instructions sent to authors, details updated [here](#instructions).
 - **25 Apr 2024 ---** :loudspeaker: Paper decision notification sent to authors.
 - **18 Apr 2024 ---** :loudspeaker: Workshop schedule confirmed.
 - **19 Mar 2024 ---** :loudspeaker: **Afshin Dehghan** confirmed as keynote speaker.
@@ -208,6 +209,22 @@ Including but not limited to:
 - And more
 
 ---
+
+## :postbox: **Instructions for Presentation and Poster** {#instructions}
+
+PRESENTATIONS:
+- The oral session will take place 11:45AM - 12:45PM in the workshop room. 
+- Each oral presentation will be 5 minutes with no Q&A. Participants will be encouraged to ask questions to presenters during the poster session. 
+- We will use the organizers’ laptop to present all papers for smooth transition. Please upload a power point of your presentation using the following link the latest by **June 15th, 23:59 PT**: [Google form](https://forms.gle/MoKAB3GK9VtJsoSCA)
+- We hope that you used the reviewers’ feedback to improve on minor revisions and that you will present an updated version during the workshop.
+
+POSTERS:
+- The poster session will take place together with the lunch break 12:45 - 2:15 PM
+- All posters will be in the Arch Building Exhibit Hall and labeled per workshop.
+- The maximum poster size is 4x8 and there is an onsite printing option (not mandatory). More information at: [CVPR website](https://cvprworkshop.myprintdesk.net/DSF/SmartStore.aspx#!/Storefront)
+- DO NOT SUBMIT A WORKSHOP PAPER TO THE MAIN CONFERENCE PRINT SITE - IT WILL BE REJECTED.
+- If you have a question, need to re-submit a file or need a receipt, please contact the provider directly atdsf.team@e-arc.com
+- In the poster room, there will be tables but no power outlets.
 
 ## :checkered_flag: **Challenge** {#challenge}
 The workshop will host the 4th International Scan-to-BIM challenge. The challenge will include the following tasks:
