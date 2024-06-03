@@ -44,7 +44,7 @@ The workshop will therefore consist of two parts: invited <a href="#speakers" ta
 <strong><u>Challenge</u></strong>
 - **8 Apr 2024 ---** Training + Validation + Testing data available for 2D & 3D
 - **9 Apr 2024 ---** Evaluation server **open** to evaluate test submissions
-- **01 Jun 2024 ---** Challenge Submission Deadline
+- **~~01 Jun~~ 05 Jun 2024 ---** Challenge Submission Deadline
 - **07 Jun 2024 ---** Notification To Challenge Participants
 - **18 Jun 2024 ---** CV4AEC Workshop @ CVPR 2024
 
