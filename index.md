@@ -51,7 +51,7 @@ The workshop will therefore consist of two parts: invited <a href="#speakers" ta
 ---
 
 ## :calendar: **Schedule** {#schedule}
-The workshop will take place on **18 June 2023** from **09:00 - 17:00 PDT**.
+The workshop will take place on **18 June 2024** from **09:00 - 17:00 PDT**.
 > **NOTE**: Times are shown in **Pacific Daylight Time**. Please take this into account if joining the workshop virtually.
 
 | Time (PDT)    | Duration | Event                                                                  |
