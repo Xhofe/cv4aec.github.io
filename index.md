@@ -148,11 +148,11 @@ is a postdoc scholar at Cornell University, working with Prof. Noah Snavely. Pri
 
 
 3. <strong>ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds</strong> <br>
-Cheung Ka Lung (The Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
+Ka Lung Cheung (The Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
 
 
 4. <strong>Towards Automating the Retrospective Generation of BIM Models: A Unified Framework for 3D Semantic Reconstruction of the Built Environment</strong> <br>
-Cheung Ka Lung (The Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
+Ka Lung Cheung (The Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
 
 
 5. <strong>Enhancing Polygonal Building Segmentation via Oriented Corners</strong> <br>
