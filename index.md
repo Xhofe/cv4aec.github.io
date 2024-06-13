@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Computer Vision in the Built Environment 
-description: CV4AEC @ CVPR 2024
+description: CV4AEC @ CVPR 2024 (Summit 443, 09:00 - 17:00 PDT, 18 June 2024)
 ---
 
 :wave: Welcome to the **4<sup>th</sup> Workshop and Challenge on
@@ -51,7 +51,8 @@ The workshop will therefore consist of two parts: invited <a href="#speakers" ta
 ---
 
 ## :calendar: **Schedule** {#schedule}
-The workshop will take place on **18 June 2024** from **09:00 - 17:00 PDT**.
+The workshop will take place on **18 June 2024** from **09:00 - 17:00 PDT** at **CVPR(Summit 443)**. Bookmark our workshop on [CVPR schedule](https://cvpr.thecvf.com/virtual/2024/workshop/23655).
+
 > **NOTE**: Times are shown in **Pacific Daylight Time**. Please take this into account if joining the workshop virtually.
 
 | Time (PDT)    | Duration | Event                                                                  |
@@ -126,7 +127,7 @@ is a Senior AI/ML Manager at Apple, where he leads a dynamic team dedicated to a
 [**Catherine De Wolf**](https://www.catherinedewolf.com/)
 is assistant professor and director of the Chair of Circular Engineering for Architecture (CEA) at ETH Zurich. Her work explores digital innovations such as reality capture and AI to advance the built environment towards a circular economy. She has a dual background in civil engineering and architecture and  completed her PhD at MIT. She is on the steering committee of the Centre for Augmented Computational Design in Architecture, Engineering and Construction (Design++). Catherine is also a faculty at the AI Center, EMPA, the Future Cities Lab, and the National Centre of Competence in Research on Digital Fabrication (DFAB). Additionally, Catherine provides regular consultation on environmental impact assessments for both government entities like the European Commission and engineering design offices such as Arup. Throughout her career, she has gained international experience working at institutions like the University of Cambridge, TU Delft, EPFL, Nanjing University, Kuwait University, and the African Urban Metabolism Network. Her contributions to these projects were often made possible by securing multiple fellowships, including the Swiss Excellence, WBI World Excellence, and Marie Sklodowska-Curie Postdoctoral Fellowships. 
 
-[**Francis Engelman**](https://francisengelmann.github.io/)
+[**Francis Engelmann**](https://francisengelmann.github.io/)
 is a PostDoc with Prof. Marc Pollefeys at ETH Zurich, and a visiting researcher at Google with Federico Tombari. His research interest lie at the intersection of computer vision and deep learning towards open-vocabulary 3D scene understanding with foundation models.
 Francis is a Fellow of the ETH AI Center, the ELLIS Society, and the recipient of the ETHZ Career Seed Award. 
 
