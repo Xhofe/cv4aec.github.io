@@ -160,7 +160,7 @@ Ka Lung Cheung (The Chinese University of Hong Kong), Chi Chung Lee (Hong Kong M
 Mohammad Moein Sheikholeslami (York University), Muhammad Kamran (York University), Andreas Wichmann (Jade University of Applied Sciences), Gunho Sohn (York University)
 
 
-6. <strong>Window to Wall Ratio Detection using SegFormer</strong> <br> [arXiv](https://arxiv.org/abs/2406.02706)
+6. <strong>Window to Wall Ratio Detection using SegFormer</strong> [[arXiv](https://arxiv.org/abs/2406.02706)] <br> 
 Zoe De Simone (MIT), Sayandeep Biswas ( MIT ), Oscar Wu ( MIT ) 
 
 
