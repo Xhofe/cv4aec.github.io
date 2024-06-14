@@ -58,16 +58,16 @@ The workshop will take place on **18 June 2024** from **09:00 - 17:00 PDT** at *
 | Time (PDT)    | Duration | Event                                                                  |
 |---------------|----------|------------------------------------------------------------------------|
 | 09:00 - 09:30 | 30 mins  | Welcome & Introduction                                                 |
-| 09:30 - 10:00 | 30 mins  | Derek Lichti                                                           |
-| 10:00 - 10:30 | 30 mins  | Francis Engelmann                                                      |
-| 10:30 - 11:00 | 30 mins  | Catherine De Wolf                                                      |
+| 09:30 - 10:00 | 30 mins  | **Derek Lichti** -- Rigorous Object Precision Modelling for Reality Capture Viewpoint Planning |
+| 10:00 - 10:30 | 30 mins  | **Francis Engelmann**                                                     |
+| 10:30 - 11:00 | 30 mins  | **Catherine De Wolf**                                                     |
 | 11:00 - 11:15 | 15 mins  | _Coffee Break_                                                         |
-| 11:15 - 11:45 | 30 mins  | Afshin Dehghan                                                         |
+| 11:15 - 11:45 | 30 mins  | **Afshin Dehghan**                                                        |
 | 11:45 - 12:45 | 60 mins  | Oral Session                                                           |
 | 12:45 - 14:15 | 90 mins  | Poster Session & _Lunch Break_                                         | 
 | 14:15 - 14:45 | 30 mins  | Challenge Winner Presentations and Awards                              |
-| 14:45 - 15:15 | 30 mins  | Caitlin Mueller                                                        |
-| 15:15 - 15:45 | 30 mins  | Yuanbo (Amber) Xiangli                                                 |
+| 14:45 - 15:15 | 30 mins  | **Caitlin Mueller**                                                        |
+| 15:15 - 15:45 | 30 mins  | **Yuanbo (Amber) Xiangli**                                                 |
 | 15:45 - 16:45 | 60 mins  | _Panel Discussion_                                                     |
 | 16:45 - 17:00 | 15 mins  | _Concluding Remarks_                                                   |
 
