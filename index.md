@@ -141,18 +141,18 @@ is a postdoc scholar at Cornell University, working with Prof. Noah Snavely. Pri
 
 
 ## :school: **Accepted Papers** {#accepted-papers}
-1. <strong>Automatic Defurnishing of Indoor Panoramas</strong> [[arXiv](https://arxiv.org/abs/2405.03682)] <br>
+1. <strong>Automatic Defurnishing of Indoor Panoramas</strong> [[arXiv](https://arxiv.org/abs/2405.03682)] [[Project Page] (https://matterport.github.io/automatic-defurnishing-of-indoor-panoramas/)]<br>
     Mira Slavcheva (Matterport), David Gausebeck ( Matterport ), Kevin Chen ( Matterport ), David Buchhofer ( Matterport ), Azwad Sabik ( Matterport ), Chen Ma ( Matterport ), Sachal Dhillon ( Matterport ), Olaf Brandt ( Matterport ), Alan Dolhasz (Matterport)
 
 2. <strong>A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion</strong> <br>
     Kailai Sun (National University of Singapore), Zhou Yang ( BYD company )
 
 
-3. <strong>ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds</strong> <br>
+3. <strong>ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds</strong> [[arXiv](https://arxiv.org/pdf/2406.01337)] <br>
 Ka Lung Cheung (The Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
 
 
-4. <strong>Towards Automating the Retrospective Generation of BIM Models: A Unified Framework for 3D Semantic Reconstruction of the Built Environment</strong> <br>
+4. <strong>Towards Automating the Retrospective Generation of BIM Models: A Unified Framework for 3D Semantic Reconstruction of the Built Environment</strong> [[arXiv] (https://arxiv.org/pdf/2406.01480)]<br>
 Ka Lung Cheung (The Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
 
 
