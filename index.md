@@ -141,10 +141,10 @@ is a postdoc scholar at Cornell University, working with Prof. Noah Snavely. Pri
 
 
 ## :school: **Accepted Papers** {#accepted-papers}
-1. <strong>Automatic Defurnishing of Indoor Panoramas</strong> [[arXiv](https://arxiv.org/abs/2405.03682)] [[Project Page](https://matterport.github.io/automatic-defurnishing-of-indoor-panoramas/)]<br>
+1. <strong>Automatic Defurnishing of Indoor Panoramas</strong> [[Project Page](https://matterport.github.io/automatic-defurnishing-of-indoor-panoramas/)] [[arXiv](https://arxiv.org/abs/2405.03682)] <br>
     Mira Slavcheva (Matterport), David Gausebeck ( Matterport ), Kevin Chen ( Matterport ), David Buchhofer ( Matterport ), Azwad Sabik ( Matterport ), Chen Ma ( Matterport ), Sachal Dhillon ( Matterport ), Olaf Brandt ( Matterport ), Alan Dolhasz (Matterport)
 
-2. <strong>A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion</strong> [[PDF](https://cv4aec.github.io/2-revised.pdf)]<br>
+2. <strong>A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion</strong> [[arXiv](https://arxiv.org/pdf/2406.09792v1)]<br>
     Kailai Sun (National University of Singapore), Zhou Yang ( BYD company )
 
 
