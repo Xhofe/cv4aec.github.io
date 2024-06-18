@@ -67,7 +67,7 @@ The workshop will take place on **18 June 2024** from **09:00 - 17:00 PDT** at *
 | 12:45 - 14:15 | 90 mins  | Poster Session & _Lunch Break_                                         | 
 | 14:15 - 14:45 | 30 mins  | Challenge Winner Presentations and Awards                              |
 | 14:45 - 15:15 | 30 mins  | **Caitlin Mueller** -- Designing With Data For A Sustainable Built Environment |
-| 15:15 - 15:45 | 30 mins  | **Yuanbo (Amber) Xiangli**                                                 |
+| 15:15 - 15:45 | 30 mins  | **Yuanbo (Amber) Xiangli** -- Pack Built Environments into Neural Fields |
 | 15:45 - 16:45 | 60 mins  | _Panel Discussion_                                                     |
 | 16:45 - 17:00 | 15 mins  | _Concluding Remarks_                                                   |
 
