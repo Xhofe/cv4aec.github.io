@@ -142,15 +142,14 @@ is a postdoc scholar at Cornell University, working with Prof. Noah Snavely. Pri
 
 ## :school: **Accepted Papers** {#accepted-papers}
 1. <strong>Automatic Defurnishing of Indoor Panoramas</strong> [[Project Page](https://matterport.github.io/automatic-defurnishing-of-indoor-panoramas/)] [[arXiv](https://arxiv.org/abs/2405.03682)] <br>
-    Mira Slavcheva (Matterport), David Gausebeck ( Matterport ), Kevin Chen ( Matterport ), David Buchhofer ( Matterport ), Azwad Sabik ( Matterport ), Chen Ma ( Matterport ), Sachal Dhillon ( Matterport ), Olaf Brandt ( Matterport ), Alan Dolhasz (Matterport)
+Mira Slavcheva (Matterport), David Gausebeck (Matterport), Kevin Chen (Matterport), David Buchhofer (Matterport), Azwad Sabik (Matterport), Chen Ma (Matterport), Sachal Dhillon (Matterport), Olaf Brandt (Matterport), Alan Dolhasz (Matterport)
 
 2. <strong>A Two-Stage Masked Autoencoder Based Network for Indoor Depth Completion</strong> [[arXiv](https://arxiv.org/pdf/2406.09792v1)]<br>
-    Kailai Sun (National University of Singapore), Zhou Yang ( BYD company )
+Kailai Sun (National University of Singapore), Zhou Yang (BYD company)
 
 
 3. <strong>ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds</strong> [[arXiv](https://arxiv.org/pdf/2406.01337)] <br>
 Ka Lung Cheung (The Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
-
 
 4. <strong>Towards Automating the Retrospective Generation of BIM Models: A Unified Framework for 3D Semantic Reconstruction of the Built Environment</strong> [[arXiv](https://arxiv.org/pdf/2406.01480)]<br>
 Ka Lung Cheung (The Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
@@ -161,26 +160,23 @@ Mohammad Moein Sheikholeslami (York University), Muhammad Kamran (York Universit
 
 
 6. <strong>Window to Wall Ratio Detection using SegFormer</strong> [[arXiv](https://arxiv.org/abs/2406.02706)] <br> 
-Zoe De Simone (MIT), Sayandeep Biswas ( MIT ), Oscar Wu ( MIT ) 
+Zoe De Simone (MIT), Sayandeep Biswas (MIT), Oscar Wu (MIT) 
 
 
 7. <strong>An Expeditious Spatial Mean Radiant Temperature Mapping Framework using Visual SLAM and Semantic Segmentation</strong> <br>
-Wei Liang (CMU), Yiting Zhang ( CMU ), Ji Zhang (CMU), Erica Cochran Hameen ( CMU )
+Wei Liang (CMU), Yiting Zhang (CMU), Ji Zhang (CMU), Erica Cochran Hameen (CMU)
 
 
 8. <strong>Zero-Shot Construction Object Detection through Knowledge-based Feature Integrator</strong> <br>
-Maryam Soleymani (Louisiana State University), Mahdi Bonyani ( Louisiana State University ), Chao Wang ( Louisiana State University ), Hyun-woo Jeon ( Kyung Hee University )
+Maryam Soleymani (Louisiana State University), Mahdi Bonyani (Louisiana State University), Chao Wang (Louisiana State University), Hyun-woo Jeon (Kyung Hee University)
 
 
 9. <strong>Real-time Ergonomic Risk Assessment in Construction Sites through Spatiotemporal Graph Convolution Network</strong> <br>
-Mahdi Bonyani ( Louisiana State University ), Maryam Soleymani (Louisiana State University), Chao Wang ( Louisiana State University ), Hyun-woo Jeon ( Kyung Hee University )
+Mahdi Bonyani (Louisiana State University), Maryam Soleymani (Louisiana State University), Chao Wang (Louisiana State University), Hyun-woo Jeon (Kyung Hee University)
 
 
 10. <strong>BIM-Module for deep learning-based parametric IFC reconstruction</strong> <br>
-Maarten Bassier (KU Leuven), Sam De Geyter ( KU Leuven ), Oscar Roman ( Bruno Kessler Foundation), Roberto Battisti (Bruno Kessler Foundation), Heinder De Winter ( KU Leuven ), Gabriele Mazzacca ( Bruno Kessler Foundation), Fabio Remondino (Bruno Kessler Foundation)
-
-
-
+Maarten Bassier (KU Leuven), Sam De Geyter (KU Leuven), Oscar Roman (Bruno Kessler Foundation), Roberto Battisti (Bruno Kessler Foundation), Heinder De Winter (KU Leuven), Gabriele Mazzacca (Bruno Kessler Foundation), Fabio Remondino (Bruno Kessler Foundation)
 
 ## :paperclip: **Call for Short Papers** {#papers}
 This year we are inviting as part of the workshop the submission of short papers, which will not appear in the conference proceedings. Accepted papers will be presented in an oral session and will also have a spot in the poster session. 
