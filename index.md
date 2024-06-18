@@ -64,7 +64,7 @@ The workshop will take place on **18 June 2024** from **09:00 - 17:00 PDT** at *
 | 11:00 - 11:15 | 15 mins  | _Coffee Break_                                                         |
 | 11:15 - 11:45 | 30 mins  | **Afshin Dehghan** -- Apple LiDAR and Advanced Parametric Scene Representation: RoomPlan and Beyond |
 | 11:45 - 12:45 | 60 mins  | Oral Session                                                           |
-| 12:45 - 14:15 | 90 mins  | Poster Session & _Lunch Break_                                         | 
+| 12:45 - 14:15 | 90 mins  | Poster Session (Arch Building Exhibit Hall, posters #40-49) & _Lunch Break_                                         | 
 | 14:15 - 14:45 | 30 mins  | Challenge Winner Presentations and Awards                              |
 | 14:45 - 15:15 | 30 mins  | **Caitlin Mueller** -- Designing With Data For A Sustainable Built Environment |
 | 15:15 - 15:45 | 30 mins  | **Yuanbo (Amber) Xiangli** -- Pack Built Environments into Neural Fields |
