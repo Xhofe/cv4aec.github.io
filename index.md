@@ -155,7 +155,7 @@ Ka Lung Cheung (The Chinese University of Hong Kong), Chi Chung Lee (Hong Kong M
 Ka Lung Cheung (The Chinese University of Hong Kong), Chi Chung Lee (Hong Kong Metropolitan University)
 
 
-5. <strong>Enhancing Polygonal Building Segmentation via Oriented Corners</strong> <br>
+5. <strong>Enhancing Polygonal Building Segmentation via Oriented Corners</strong> [[arXiv](https://arxiv.org/abs/2407.12256)] <br>
 Mohammad Moein Sheikholeslami (York University), Muhammad Kamran (York University), Andreas Wichmann (Jade University of Applied Sciences), Gunho Sohn (York University)
 
 
