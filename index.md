@@ -51,7 +51,7 @@ The workshop will therefore consist of two parts: invited <a href="#speakers" ta
 ---
 
 ## :calendar: **Schedule** {#schedule}
-The workshop took place on **18 June 2024** from **09:00 - 17:00 PDT** at **CVPR(Summit 443)**. The recording of our workshop for registered participants can be found on [CVPR platform](https://cvpr.thecvf.com/virtual/2024/workshop/23655).
+The workshop took place on **18 June 2024** from **09:00 - 17:00 PDT**. The recording of our workshop for registered participants can be found on [CVPR platform](https://cvpr.thecvf.com/virtual/2024/workshop/23655).
 
 > **NOTE**: Times are shown in **Pacific Daylight Time**. Please take this into account if joining the workshop virtually.
 
