@@ -257,7 +257,27 @@ The training data consists of 16 floors from 8 buildings. For each model, there 
 ---
 
 ## :trophy: **Challenge Winners** {#winners}
-> TBA!
+### 2D Floor Plan Reconstruction
+
+| Team           | Precision (5cm) | Precision (10cm) | Precision (20cm) | Recall(5cm) | Recall(10cm) | Recall (20cm) | IoU  | Warping Error | Betting Error |
+|----------------|-----------------|------------------|------------------|-------------|--------------|---------------|------|---------------|---------------|
+| HKU-iLab-2D    | 0.031           | 0.060            | 0.093            | 0.192       | 0.347        | 0.510         | 0.563| 0.221         | 1.308         |
+
+### 3D Building Model Reconstruction
+
+| Team            | Average IoU | Columns IoU | Doors IoU | Walls IoU | 5cm Average F1 | 10cm Average F1 | 20cm Average F1 | 10cm Columns F1 | 10cm Doors F1 | 10cm Walls F1 |
+|-----------------|-------------|-------------|-----------|-----------|----------------|-----------------|-----------------|-----------------|---------------|---------------|
+| HKU-iLab-3D     | 0.450       | 0.475       | 0.524     | 0.362     | 0.466          | 0.567           | 0.646           | 0.600           | 0.586         | 0.528         |
+| KUL-FBK         | 0.270       | 0.304       | 0.231     | 0.291     | 0.327          | 0.423           | 0.500           | 0.488           | 0.376         | 0.425         |
+| HumanTech       | 0.241       | 0.357       | 0.172     | 0.243     | 0.314          | 0.444           | 0.550           | 0.643           | 0.258         | 0.515         |
+
+
+
+### **Teams**
+ * **HKU-iLab-2D**: Longyong Wu, Ziqi Li, Meng Sun, Fan Xue; Department of Real Estate and Construction, The University of Hong Kong
+ * **HKU-iLab-3D**: Siyuan Meng, Sou-Han Chen, Jiajia Wang, Fan Xue; Department of Real Estate and Construction, The University of Hong Kong
+ * **KUL-FBK**: Maarten Bassier, Sam De Geyter, Heinder De Winter, Roberto Battisti, Oscar Roman; KU Leuven Department of Civil Engineering, Geomatics Section, Faculty of Engineering Technology, Ghent, Belgium & Bruno Kessler Foundation (FBK), Trento, Italy
+ * **HumanTech**: Mahdi Chamseddine, Fabian Kaufmann, Jason Rambach; DFKI and RPTU in Kaiserslautern, Germany
 
 ---
 
