@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Computer Vision in the Built Environment 
-description: CV4AEC @ CVPR 2024 (Summit 443, 09:00 - 17:00 PDT, 18 June 2024)
+description: CV4AEC @ CVPR 2024 (18 June 2024)
 ---
 
 :wave: Welcome to the **4<sup>th</sup> Workshop and Challenge on
@@ -252,7 +252,7 @@ The training data consists of 16 floors from 8 buildings. For each model, there 
 1. **3D IoU** of the 3D bounding box of each wall
 2. **Accuracy of the endpoints** : Precision/Recall at 3 different thresholds: 5cm, 10cm and 20cm, as well as F-measure will be evaluated in the coordinate system of the point cloud. The provided endpoints will be matched with the Hungarian algorithm to the point cloud, and every point that is within a certain threshold will be determined as a match. We evaluate per each of the three semantic types (i.e., wall, column, door).
 
-> We would like to note that ALL the submissions **need to be constructed automatically** . Manual reconstructions are against the spirit of this challenge and will not be allowed.
+> We would like to note that ALL the submissions **need to be constructed automatically**. Manual reconstructions are against the spirit of this challenge and will not be allowed.
 
 ---
 
